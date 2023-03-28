@@ -1,0 +1,37 @@
+types of food ->
+
+	fruits,			//meaning to eat raw or cooked fruits
+	vegetables,		//meaning to eat raw or cooked vegetables
+
+	appetizers,
+	snacks,
+	sausages,
+
+	sandwiches and wraps,
+	salads,
+	roasts,
+	barbecues,
+	fish and seafood,
+
+	sauces,
+	soups,
+	stews,
+	
+	egg dishes,
+	pasta,
+	curries,
+	risottos,
+	//succotash,
+
+	pies,
+	pastries,
+	puddings,
+	tarts,
+	cakes;
+
+
+local links ->
+
+	
+	Jamie Oliver [https://www.jamieoliver.com/recipes/category/dishtype/],
+	CRUSH [https://crushmag-online.com/recipe-type/pies-pastries/];
