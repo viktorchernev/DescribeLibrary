@@ -1,0 +1,25 @@
+A list in its simplest form consist of a title, followed by a production arrow "->", followed by 0, one or more elements, delimited by commas "," and terminated by a semicolon ";". For example:
+
+
+	popular citrus fruits ->
+
+		Orange,
+		Lemon,
+		Grapefruit,
+		Pomelo;
+
+
+Reserved words (aka key words, aka reserved symbols, aka key symbols, aka special characters) in this example are:
+
+	- '->' a "producer" or "production arrow"
+	- ',' a "separator"
+	- ';' a "terminator"
+
+Those special characters can also be escaped:
+
+	- '\->' an "escaped producer" or "escaped production arrow"
+	- '\,' an "escaped separator"
+	- '\;' an "escaped terminator"
+
+
+authority: DemonOfReason;

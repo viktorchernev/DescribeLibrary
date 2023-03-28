@@ -1,0 +1,6 @@
+Comments in Describe are like comments in C++ or C#
+
+There are two types of comments in Describe - single line comments and multi-line comments. Single line comments start with double forward slashes ("//") and end with new line ("\n" or "\r\n" ). Multi-line comments start with a froward slash and a star ("/*") and end with a star and a forward slash ("*/"). Comments in Describe cannot be nested. 
+
+
+authority: DemonOfReason;

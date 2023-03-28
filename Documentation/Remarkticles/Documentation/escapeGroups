@@ -1,0 +1,96 @@
+It would be great to have a way to escape an entire line or a number of lines, or a given text in a line, in the same manner in which comments work and the verbatim strings @"" in C#. Some questions arise, though:
+
+1. What symbols to use?
+colons - 				"|" and "||"
+reverse comments - 		"\*" and "*\" and "\\"
+this - 					"-<" and ">-" and "-<<"
+
+2. How do you end the single line ones?
+With new line only "\n" or "\r\n" or is it also possible to end the group with comma and new line, so that you can have a comma on the same line after one of those one liners?
+
+
+	escape groups variant 1A ->
+	
+		-<< This is an escaped item,
+		-<< And so is this,
+		-<< But the problem is we can't have tags like this <TlvGHkiS>,
+
+	
+	escape groups variant 1B ->
+	
+		-<< But we can have tags 
+		<TlvGHkiS>,
+
+		-<< If we use new lines 
+		<TlvGHkiS>,
+
+		-<< Capeesh?
+		<TlvGHkiS>,
+
+	
+	escape groups variant 1C ->
+	
+		-< This is an escaped item >-,
+		-< And so is this >-,
+		-< Here, we can have tags like this >- <TlvGHkiS>,
+
+
+	escape groups variant 1D ->
+	
+		-<Sed sit amet purus quis diam dignissim suscipit in quis metus. Maecenas vitae egestas elit. Donec urna libero, aliquam sit amet nibh eu, pharetra fermentum odio. Aliquam at lacus eget odio tincidunt sollicitudin non nec elit. Phasellus molestie ut enim quis faucibus. Curabitur eget mi in diam vestibulum tincidunt a sit amet orci. Sed iaculis, sem et maximus egestas, eros purus mattis erat, ultrices auctor nunc magna id risus.>- <WfYnCCbk>,
+		
+		-<Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dictum eros nibh, vitae aliquam lorem fermentum sit amet. Fusce blandit leo ipsum, sed consectetur lorem dignissim at. Integer sed finibus lacus, nec scelerisque neque. Vestibulum eget egestas tortor. Mauris tempus efficitur mi non mattis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse viverra vestibulum dolor eget laoreet.>- <TOt7Kk60>;
+	
+
+
+	escape groups variant 2A ->
+	
+		\\ This is an escaped item,
+		\\ And so is this,
+		\\ But the problem is we can't have tags like this <TlvGHkiS>,
+
+	
+	escape groups variant 2B ->
+	
+		\\ But we can have tags 
+		<TlvGHkiS>,
+
+		\\ If we use new lines 
+		<TlvGHkiS>,
+
+		\\ Capeesh?
+		<TlvGHkiS>,
+
+	
+	escape groups variant 2C ->
+	
+		\* This is an escaped item *\,
+		\* And so is this *\,
+		\* Here, we can have tags like this *\ <TlvGHkiS>,
+
+
+	escape groups variant 2D ->
+	
+		\*Sed sit amet purus quis diam dignissim suscipit in quis metus. Maecenas vitae egestas elit. Donec urna libero, aliquam sit amet nibh eu, pharetra fermentum odio. Aliquam at lacus eget odio tincidunt sollicitudin non nec elit. Phasellus molestie ut enim quis faucibus. Curabitur eget mi in diam vestibulum tincidunt a sit amet orci. Sed iaculis, sem et maximus egestas, eros purus mattis erat, ultrices auctor nunc magna id risus.*\ <WfYnCCbk>,
+		
+		\*Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dictum eros nibh, vitae aliquam lorem fermentum sit amet. Fusce blandit leo ipsum, sed consectetur lorem dignissim at. Integer sed finibus lacus, nec scelerisque neque. Vestibulum eget egestas tortor. Mauris tempus efficitur mi non mattis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse viverra vestibulum dolor eget laoreet.*\ <TOt7Kk60>;
+
+
+
+Some inappropriate ones:
+
+- Cannot be a common enough character or combo: 
+	exclimation marks - 	"!" and "!!"
+	dolars - 				"$" and "$$"
+	hashes - 				"#" and "##"
+	ampersands - 			"&" and "&&"
+	percents - 				"%" and "%%"
+	exponents - 			"^" and "^^"
+	collons are not very appropriate either - "|" and "||"
+
+- Cannot be the same character because we wouldn't know if we are finishing an open group or if we have one liners.
+
+
+
+
+authority: DemonOfReason;

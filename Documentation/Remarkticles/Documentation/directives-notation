@@ -1,0 +1,23 @@
+There are two ways to write directives - full notation and short notation.
+
+When using full notation, directives are just lists that are first in the file, and have a given keyword - like "utilizing" for head. This allows directives to be gruped. For example:
+
+	utilizing -> 
+	
+		basics,
+		locks;
+
+Which is the same as:
+
+	utilizing -> basics;
+	utilizing -> locks;
+
+
+The short notation, on the other hand ommits the production arror and allows only for single liners to be used. For example:
+
+	utilizing -> basics;
+	utilizing -> locks;
+	unplug -> comments;
+
+
+authority: DemonOfReason;

@@ -1,0 +1,38 @@
+A list in its simplest form consist of a title, followed by a production arrow "->", followed by 0, one or more elements, delimited by commas "," and terminated by a semicolon ";". For example:
+
+
+	popular citrus fruits ->
+
+		Orange,
+		Lemon,
+		Grapefruit,
+		Pomelo;
+
+
+
+authority: DemonOfReason;
+
+
+
+1. Nested statements
+It can be convenient to have nested statements, instead of having to rely on simple statements:
+"
+pop culture <ThNOSwjc> ->
+	
+	baseball metaphors for sex <wXfQtZzR> ->
+
+		First base <RVKlIfMw>,
+		Second base <8XKdfk4C>,
+		Third base <yTq1MDc9>,
+		Home run <xuuAfH6r>;
+	
+	some other list <e4EqNqlx> ->
+	
+		Item A <UaQ5lG6M> ->
+		
+			lorem <bc8lfOzH>,
+			ipsum <s3hvwgXr>;
+
+		Item B <ccbZt8FN>,
+		Item C <3KyYvMQ0>;
+"

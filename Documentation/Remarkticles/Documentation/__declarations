@@ -1,0 +1,6 @@
+4. Declaration statements
+The way to explicitly declare TERMINS is via DECLARATION STATEMENTS.
+A DECLARATION STATEMENT is a TERMIN, 0 or more whitespaces, ";".
+"
+Lorem ipsum [http://lorem-ipsum.com/] <1iBfpRhL>;
+"
