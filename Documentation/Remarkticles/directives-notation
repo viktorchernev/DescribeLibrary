@@ -15,9 +15,9 @@ Which is the same as:
 
 The short notation, on the other hand ommits the production arror and allows only for single liners to be used. For example:
 
-	utilizing -> basics;
-	utilizing -> locks;
-	unplug -> comments;
+	utilizing basics;
+	utilizing locks;
+	unplug comments;
 
 
 authority: DemonOfReason;

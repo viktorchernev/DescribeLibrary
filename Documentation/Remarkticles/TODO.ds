@@ -6,4 +6,10 @@ Remarcticles to be made ->
 	SelfEnumerating list,
 	SelfLeterDelimited list,
 	SelfAlphabeticallyOrdered list,
-	Descending sort list;
+	Descending sort list,
+	Descending list parts
+	Multyfile lists;
+
+features ideas ->
+
+	escape groups;

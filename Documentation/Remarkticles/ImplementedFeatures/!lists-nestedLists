@@ -1,0 +1,25 @@
+It is often convenient to have nested lists, instead of having to rely on simple ones (connected by tags). In Describe you can do that. For example:
+
+
+pop culture <ThNOSwjc> ->
+	
+	baseball metaphors for sex <wXfQtZzR> ->
+
+		First base <RVKlIfMw>,
+		Second base <8XKdfk4C>,
+		Third base <yTq1MDc9>,
+		Home run <xuuAfH6r>;
+	
+	some other list <e4EqNqlx> ->
+	
+		Item A <UaQ5lG6M> ->
+		
+			lorem <bc8lfOzH>,
+			ipsum <s3hvwgXr>;
+
+		Item B <ccbZt8FN>,
+		Item C <3KyYvMQ0>;
+
+
+
+authority: DemonOfReason;

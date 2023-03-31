@@ -1,6 +1,0 @@
-7-1. Decorators
-	Decorators are lists that add data to another lists. That data is toggable - for example you
-	can right click and select a decorator to show. For example, "prices in 2022" year can be the 
-	name of a decorator, and when toggled on, prices appear in brackets.
-	The decorator itself can also be displayed as a list, in that case with entries containing the 
-	decoree LITERAL in a decorated form.

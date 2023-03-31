@@ -1,6 +1,6 @@
 "utilising" directives are directives that tell the Describe compiler what features of the Describe language to use. Utilizing directives serve the purpouse of letting users decide which features of the language they will need for the particular document, and not leting other features become a hinderence. Also, this is a convenient alternative to having versions of the language.
 
-The way this worki is, there are key names for each feature - the same name that is on the documentation remarkticle document for the feature. For example:
+The way this works is, there are key names for each feature - the same name that is on the documentation remarkticle document for the feature. For example:
 
 
 	utilizing -> basics;
