@@ -1,0 +1,64 @@
+local links ->
+
+	1001recepti.com [https://www.1001recepti.com/recipe/],
+	shop.gladen.bg [https://shop.gladen.bg/product/],
+	hranite.info [https://www.hranite.info/foods];
+
+
+low-calorie breakfasts ->
+	
+	// Sandwiches (kcal in product/s | kcal in 1 slice of white bread 43g)
+	toasts with tofu (76|100) <UsmFItXf>
+	toasts with curd (98|100) <o2AUX8On>,
+	ham toasts (126|100) <18sQfXL3>,
+	toasts with humus (166|100) <TXSDvjjt>,
+	avocado toasts (240|100) <91w0rjPh>,
+	toasts with sirene (264|100) <B2TeCtdJ>,
+	toasts with pate (319|100) <SlPOZWAG>,
+	
+	// Porridges
+	yogurt (59) <ccq0LCKd>,
+	yogurt and oatmeal (59|379) <oXu0bwQs>,
+	
+	// Fruits
+	Bananas (89) <W3S9VYEI>,
+	Apples (52-60) <lMX3rWbX>,
+	Pears (57) <2kpAOYMh>,
+	Tangerines (53) <c3mqDhU0>,
+	Oranges (47) <aMci8BEQ>;
+
+
+
+low-calorie snacks ->;
+
+	Salt sticks,
+	Saltys without butter;
+	
+
+
+low-calorie lunches ->
+
+	// Bread only
+	A slice of bread 43g (100)
+
+	// Soups
+	Tripe soup,
+	Viel Boiled soup,
+	Fish soup,
+	Chicken soup;
+
+	// Salads (esp ones where you get to add oil)
+	Shopska salad,
+	Green salad,
+	
+
+
+low-calorie dinners ->
+
+	kabapcheta s garnitura,
+	kartofeno piure,
+	fried meatballs with tomato roast pepper feta olive oil salad <gbMhc1OX>
+	roast potatoes,
+	filled peppers,
+	cab kaima rice,
+	boiled fish;

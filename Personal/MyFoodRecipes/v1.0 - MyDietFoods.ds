@@ -1,0 +1,64 @@
+local links ->
+
+	1001recepti.com,
+	shop.gladen.bg,
+	hranite.info;
+
+
+low \- calorie breakfasts ->
+	
+	// Sandwiches (kcal in product/s | kcal in 1 slice of white bread 43g)
+	toasts with tofu (76+100),
+	toasts with curd (98+100),
+	ham toasts (126+100),
+	toasts with humus (166+100),
+	avocado toasts (240+100),
+	toasts with sirene (264+100),
+	toasts with pate (319+100),
+	
+	// Porridges
+	yogurt (59),
+	yogurt and oatmeal (59+379),
+	
+	// Fruits
+	Bananas (89),
+	Apples (52 \- 60),
+	Pears (57),
+	Tangerines (53),
+	Oranges (47);
+
+
+
+low \- calorie snacks ->
+
+	Salt sticks,
+	Saltys without butter;
+	
+
+
+low \- calorie lunches ->
+
+	// Bread only
+	A slice of bread 43g (100),
+
+	// Soups
+	Tripe soup,
+	Viel Boiled soup,
+	Fish soup,
+	Chicken soup,
+
+	// Salads (esp ones where you get to add oil)
+	Shopska salad,
+	Green salad;
+	
+
+
+low \- calorie dinners ->
+
+	kabapcheta s garnitura,
+	kartofeno piure,
+	fried meatballs with tomato roast pepper feta olive oil salad,
+	roast potatoes,
+	filled peppers,
+	cab kaima rice,
+	boiled fish;
