@@ -91,6 +91,7 @@ Text = {TextCharacter}{TextCharacter}+
 ! Item
 <item>    
     ::= <text>
+    | <text> Link
     | <text> <tag>
     | <text> <tag> Link
     | <text> <tag> <links>
