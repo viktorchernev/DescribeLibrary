@@ -1,0 +1,7 @@
+Lists can also be empty. This is useful when we want to have a list but haven't figured out it's elements yet - like a placeholder. For example:
+
+
+	popular citrus fruits ->;
+
+
+authority: DemonOfReason;

@@ -1,0 +1,22 @@
+Given the fact that the parser that is used to parse Describe is based on and an implementation of the Gold Parser Engine, which is a LALR parser, there is a limitation to the grammar that can be used - thus symbols that are a part of double symbol keywords need to be escaped when used in text. For example:
+
+
+	not escaped ->
+
+		this is - a hyphen,
+		a * star,
+		this is / a slash,
+		and this is \ too;
+	
+	escaped ->
+
+		this is \- a hyphen,
+		a \* star,
+		this is \/ a slash,
+		and this is \\ too;
+
+
+So the question is, is the "not escaped" list full of errors or not? And the answer is this: If you look at the Gold Parser Grammar files provided in the documentation, or try to debug those grammars in the Gold Parser Builder Tool, you will find that yes, those unescaped symbols will produce syntax errors, even though they are not keywords. However, if you are using the Describe compiler this won't be the case, as the compiler is designed to compensate for this and escape those symbols for us, in a manner that is transparent to the user. 
+
+
+authority: DemonOfReason;

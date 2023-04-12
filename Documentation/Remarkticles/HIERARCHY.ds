@@ -1,0 +1,17 @@
+utilizing -> 
+	
+	basics,
+	tags;
+
+
+features ->
+
+	// Conveniently auto escape '*', '\', '/', '-', 
+	// so that the used does not have to
+	auto escapes;
+
+
+LEGEND ->
+
+	~ - Is unplugable,
+	* - Is plugable;

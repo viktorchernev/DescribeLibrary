@@ -1,0 +1,19 @@
+5. Redefinitions and collisions
+Redefinitions are something bad and undesireable.
+This happens if there is an ITEM TAG COLLISION, or an accidental redefinition.
+
+	5-1. ITEM TAG COLLISION
+	ITEM TAG COLLISION happens when short ITEM TAGS are used and accidentally a newly generated
+	ITEM TAG ID matches a previous one. Of course there is a possibility of this happening with IDS
+	of any length, but it is much more likely to happen with 2 character IDS, for example, instead of
+	8 character IDS, where chances are astronomical.
+	
+	5-2. ACCIDENTAL REDEFINITION
+	ACCIDENTAL REDEFINITION happens when, for example, someone copies a previously defined entry in a
+	production, including the LITERAL (and possibly the LINK HEAP), instead of just copying the ITEM TAG of the TERMIN.
+
+	5-3. CONSEQUENCES
+	REDEFINITIONS can be reported by the editor/interpreter as errors or might be left as is,
+	but the problem is that if interpreting of code passes through the redefinition first, the displayed
+	result will show the redefinition instead. Also, if the definition LITERAL is later edited it gets 
+	only more confusing later on.

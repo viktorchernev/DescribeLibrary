@@ -1,0 +1,15 @@
+An ESCAPE SEQUENCE consists of a backslash "\" and a command character (key word). For example:
+
+
+	some escape sequence ->
+	
+		an escape sequence - "\<", 
+		another escape sequence - "\>", 
+		another escape sequence - "\[", 
+		another escape sequence - "\]", 
+		another escape sequence - "\-",
+		another escape sequence - "\;", 
+		another escape sequence - "\,";
+
+
+authority: DemonOfReason;

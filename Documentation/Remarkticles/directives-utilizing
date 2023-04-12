@@ -1,0 +1,23 @@
+"utilising" directives are directives that tell the Describe compiler what features of the Describe language to use. Utilizing directives serve the purpouse of letting users decide which features of the language they will need for the particular document, and not leting other features become a hinderence. Also, this is a convenient alternative to having versions of the language.
+
+The way this works is, there are key names for each feature - the same name that is on the documentation remarkticle document for the feature. For example:
+
+
+	utilizing -> basics;
+	utilizing -> locks;
+
+
+There are also compound key names that activate more than one feature - like the name "basics" in the example above.
+
+If we are using compound names, however, and want to turn off a feature, we use the "unplug" directive. For example:
+
+
+	utilizing -> basics;
+	utilizing -> locks;
+	unplug -> comments;
+
+
+The keyword "utilizing" should be interchangeable and act in exactly the same manner as the keyword "utilising", so that no one feels that the Describe language is forcing him to use the spelling variation he/she does not prefer.
+
+
+authority: DemonOfReason;

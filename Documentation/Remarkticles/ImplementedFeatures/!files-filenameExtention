@@ -1,0 +1,7 @@
+Source files of the "Describe" language must have an associated filename extention, like most other programing languages do. 
+
+"ds" or "DS" should be used for source files.
+"dr" should be used for drafts - that indicates that the file is to be highlighted in editor, but not compiled into a list with all the other files.
+
+
+authority: DemonOfReason;
