@@ -1,6 +1,0 @@
-	are we going to be preserving new lines in entries, use escapes or use double new line like in wiki
-	same goes for whitespaces and leading and thrilling whitespaces
-
-Leading and trailing whitespaces are ignored, while inside statements they act as delimiter, although
-their count and type is ignored - that is " " equals "    " equals "\t". 
-New lines count is also ignored - "\n" equals "\n\n\n".

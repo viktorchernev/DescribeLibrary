@@ -1,7 +1,0 @@
-3. Root termins
-A TERMIN that starts with an exclimation mark "!" is a ROOT TERMIN.
-When a ROOT DOCUMENT is displayed, the ROOT TERMINS become the root entries 
-upon which the lists are built. Also, if an ITEM TAG only refferences a filename,
-the ROOT TERMINS in that file become elemets(s) in the list. Using ROOT TERMINS also makes the
-markup more readable. If no ROOT TERMIN is used, the first production's left side TERMIN 
-or the first definition is considered to be the ROOT TERMIN.
