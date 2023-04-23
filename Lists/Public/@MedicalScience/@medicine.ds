@@ -1,9 +1,0 @@
-medicine <nQjOBWr6> ->
-
-	human medicine <cVSaf870>,
-	veterinary medicine <HUjgDJhL>;
-
-human medicine <cVSaf870> ->
-
-	human nutrition <humanNutrition.ds/8bvCDgaJ>,
-	human diseases <humanDiseases.ds/qUCogC1f>;
