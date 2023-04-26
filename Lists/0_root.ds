@@ -1,17 +1,7 @@
 ROOT <rootnode>->
 
 	DOCUMENTATION <Documentation\/@documentation.ds\/2gRINQEw>,
-	//PERSONAL <Personal\/@Personal.ds\/Ec5mLPL6>,
-	//PRIVATE <Private/@private.ds/poK4q2UC>,
 	PUBLIC <Public\/@public.ds\/7LnGYt1O>,
-	DRAFTS <Drafts\/@Drafts.ds\/doy7yDlX>;
-
-
-
-//PUBLIC <7LnGYt1O> ->
-
-	//science <science.ds/fi58Z14e>,
-	//culture <culture.ds/81LFNJ6z>,
-	//technologies and inventions <technologiesAndInventions.ds/JDrbx4Wg>,
-	//industries <industries/xwl1Ckxi>,
-	//obstacles <obstacles.ds/XxOyG5RJ>;
+	DRAFTS <Drafts\/@Drafts.ds\/doy7yDlX>,
+	PERSONAL <Personal\/@Personal.ds\/Ec5mLPL6>,
+	PRIVATE <Private\/@private.ds\/poK4q2UC>;
