@@ -35,7 +35,7 @@ EscapeBSlash = '\\'
 ! Text
 {SpecialCharacter} = ['-''<''>'','';''*''/''\''\-''\<''\>''\,''\;''\*''\/''\\']
 {TextCharacter} = {Printable} - {SpecialCharacter}
-Text = {TextCharacter}{TextCharacter}+
+Text = {TextCharacter}+
 
 
 ! Productions
