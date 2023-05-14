@@ -1,4 +1,7 @@
-crypto currency consensus mechanisms <jSVHNlPz> ->
+directives -> namespace <treeofall.public.unsorted>;
+
+
+crypto currency consensus mechanisms <cryptoConsensusMechanisms> ->
 
 	Proof of Work,
 	Proof of Stake,

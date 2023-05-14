@@ -1,12 +1,14 @@
-cuisine <IOkgTnQG> ->
+directives -> namespace <treeofall.public.culture.cuisine>;
 
-	taste <taste.ds\/sTGsVuiU>,
-	types of diets <typesOfDiets.ds\/LqbqsBZR>,
-	eating utencil skills <eatingUtencilSkills.ds\/G3KWwud0>,
-	types of food <foodTypes.ds\/m6gY3xTH>,
+cuisine <rnode> ->
 
-	food products <foodProducts\/@foodProducts.ds\/4Rzk6YCr>,
-	drinks <drinks.ds\/oQ8oko6c>,
+	taste <taste>,
+	types of diets <typesOfDiets>,
+	eating utencil skills <eatingUtencilSkills>,
+	types of food <foodTypes>,
+
+	food products <.foodProducts.rnode>,
+	drinks <drinks>,
 	dishes <XutYzYPm>,
 	cooking equipment <urCBCq69>,
 	eating equipment <ZLcixxK4>;

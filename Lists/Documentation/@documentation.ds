@@ -1,3 +1,7 @@
-DOCUMENTATION <2gRINQEw> ->
+directives -> 
+	namespace <treeofall.documentation>;
 
-	schemes <schemes.ds\/tW2eET9Z>;
+
+DOCUMENTATION <rnode> ->
+
+	schemes <.schemes.rnode>;

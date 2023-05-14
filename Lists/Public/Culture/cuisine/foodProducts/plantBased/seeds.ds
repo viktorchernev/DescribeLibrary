@@ -1,4 +1,7 @@
-seeds [https://en.wikipedia.org/wiki/List_of_edible_seeds] <S7I8yJcm> ->
+directives -> namespace <treeofall.public.culture.cuisine.foodProducts.plantBased>;
+
+
+seeds [https://en.wikipedia.org/wiki/List_of_edible_seeds] <seeds> ->
 
 	
 	Wheat [https://en.wikipedia.org/wiki/Wheat] <CNpaGX08>,						//Пшеница

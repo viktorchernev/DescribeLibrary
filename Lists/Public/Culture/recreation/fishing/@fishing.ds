@@ -1,8 +1,11 @@
-fishing <ukjv1wbS> ->
+directives -> namespace <treeofall.public.culture.recreation.fishing>;
+
+
+fishing <rnode> ->
 
 	hucks <ztQLf8w5>,
 	knots <iGL9Nxzb>,
-	baits <fishingBaits\/@fishingBaits.ds\/YX1xIu9t>;
+	baits <fishingBaits>;
 
 
 

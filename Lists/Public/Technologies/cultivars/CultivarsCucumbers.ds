@@ -1,4 +1,8 @@
-Cucumber cultivars <qypG5xBD> ->
+directives ->
+	namespace <treeofall.public.technologies.cultivars>;
+
+
+Cucumber cultivars <CultivarsCucumbers> ->
 
 	Cucumber varieties ->
 

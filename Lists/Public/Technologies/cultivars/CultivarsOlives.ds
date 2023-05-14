@@ -1,4 +1,8 @@
-Common olive cultivars <8WX7yrmd>
+directives ->
+	namespace <treeofall.public.technologies.cultivars>;
+
+
+Common olive cultivars <CultivarsOlives>
 [https://www.oliveoiltimes.com/basics/how-many-olive-varieties-are-there/84373]
 ->
 

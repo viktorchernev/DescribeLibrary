@@ -1,4 +1,8 @@
-personality disorders <KuynuRbr>->
+directives ->
+	namespace <treeofall.public.science.medicine.mentalDisorders>;
+
+
+personality disorders <PersonalityDisorders>->
 
 	cluster A <yAf27KkL>,
 	cluster B <WfgCIgWP>,

@@ -1,3 +1,7 @@
-card games <jllIUNYI> -> 
+directives ->
+	namespace <treeofall.public.culture.recreation.games>;
+
+
+card games <gamesCardGames> -> 
 	
-	poker games <gamesCardGamesPokerGames.ds\/DRazHp7F>;
+	poker games <gamesCardGamesPokerGames>;

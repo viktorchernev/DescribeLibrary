@@ -1,4 +1,7 @@
-compound baits <nerhrlW1> ->
+directives -> namespace <treeofall.public.culture.recreation.fishing>;
+
+
+compound baits <compoundBaits> ->
 
     protein balls <42v5SHRP>,
 	Bread <ucbT9vZu>,

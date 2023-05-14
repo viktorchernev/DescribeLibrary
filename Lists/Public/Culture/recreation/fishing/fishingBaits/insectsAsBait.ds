@@ -1,6 +1,9 @@
+directives -> namespace <treeofall.public.culture.recreation.fishing>;
+
+
 // (M) ribarnik.com - blog, Насекомите като примамка https://ribarnik.com/blog/nasekomite-kato-primamka
 
-insects as bait [https://ribarnik.com/blog/nasekomite-kato-primamka] <aEgUUuQL> ->
+insects as bait [https://ribarnik.com/blog/nasekomite-kato-primamka] <insectsAsBait> ->
 
 	Grasshoppers [https://en.wikipedia.org/wiki/Grasshopper] <bajfOJfz>,
 	Flies [https://en.wikipedia.org/wiki/Fly] <SLTroJd6>,

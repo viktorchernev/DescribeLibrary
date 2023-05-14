@@ -1,8 +1,10 @@
-baits <YX1xIu9t> ->
+directives -> namespace <treeofall.public.culture.recreation.fishing>;
 
-	insects as bait [https://en.wikipedia.org/wiki/Fishing_bait] <insectsAsBait.ds\/aEgUUuQL>,
-	worms as bait [https://en.wikipedia.org/wiki/Fishing_bait] <wormsAsBait.ds\/Vp1Pgjl0>,
-	fruit and vegetable baits <fruitVegieBaits.ds\/FalkuoNL>,
+baits <fishingBaits> ->
+
+	insects as bait [https://en.wikipedia.org/wiki/Fishing_bait] <insectsAsBait>,
+	worms as bait [https://en.wikipedia.org/wiki/Fishing_bait] <wormsAsBait>,
+	fruit and vegetable baits <fruitVegieBaits>,
 	fish as bait <ArBZz4Zn>,
-	compound baits <compoundBaits.ds\/nerhrlW1>,
-	other baits <otherBaits.ds\/Azso2TsC>;
+	compound baits <compoundBaits>,
+	other baits <otherBaits>;

@@ -1,8 +1,12 @@
-games <mEz5LULg> ->
+directives ->
+	namespace <treeofall.public.culture.recreation.games>;
+
+
+games <rnode> ->
 
 	sports <GRY3jQ9L>,
 
-	card games <gamesCardGames.ds\/jllIUNYI>,
+	card games <gamesCardGames>,
 	board games <143P4tCa>,
 	puzzles <iI1t5ya0>,
 	

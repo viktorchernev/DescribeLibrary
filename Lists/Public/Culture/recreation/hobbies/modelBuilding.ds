@@ -1,4 +1,8 @@
-model building <z1wC2MCI> ->
+directives ->
+	namespace <treeofall.public.culture.recreation.hobbies>;
+
+
+model building <modelBuilding> ->
 
 	rocketry <1YlXCOjc>,
 	aircraft <JZeJHVqO>,

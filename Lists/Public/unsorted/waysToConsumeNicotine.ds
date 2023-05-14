@@ -1,4 +1,7 @@
-ways to consume nicotine <Djzc8foG> ->
+directives -> namespace <treeofall.public.unsorted>;
+
+
+ways to consume nicotine <waysToConsumeNicotine> ->
 
 	// pipes
 	pipe [https://en.wikipedia.org/wiki/Tobacco_pipe],

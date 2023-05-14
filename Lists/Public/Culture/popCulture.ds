@@ -1,4 +1,12 @@
-pop culture <ThNOSwjc> -> baseball metaphors for sex <wXfQtZzR>;
+directives ->
+	namespace <treeofall.public.culture>;
+
+
+pop culture <popCulture> -> 
+
+	baseball metaphors for sex <wXfQtZzR>;
+
+
 baseball metaphors for sex [https://en.wikipedia.org/wiki/Baseball_metaphors_for_sex] <wXfQtZzR> ->
 
 	First base: kissing\, especially French kissing <RVKlIfMw>,

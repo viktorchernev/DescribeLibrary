@@ -1,4 +1,8 @@
-somatic symptom related disorders <pgwbbXei>->
+directives ->
+	namespace <treeofall.public.science.medicine.mentalDisorders>;
+
+
+somatic symptom related disorders <SomaticDisorders>->
 
     Illness anxiety <JfQpd7BW>,
     Conversion disorder (Functional Neurological Symptom Disorder) <PuV3KejJ>,

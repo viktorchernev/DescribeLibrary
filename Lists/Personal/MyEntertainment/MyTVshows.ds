@@ -1,9 +1,13 @@
-My TV shows [https://www.imdb.com/chart/toptv/] <pKOYEG7t> ->
+directives -> namespace <treeofall.personal.MyEntertainment>;
+
+
+My TV shows [https://www.imdb.com/chart/toptv/] <MyTVshows> ->
 
 	Historical ->
 		Rome [https://en.wikipedia.org/wiki/Rome_(TV_series)] <pXl6ryQz>,
 		Chernobyl [https://en.wikipedia.org/wiki/Chernobyl_(miniseries)] <T97OoCWa>,
-		Vikings [https://en.wikipedia.org/wiki/Vikings_(TV_series)] <NabbrqKR>;
+		Vikings [https://en.wikipedia.org/wiki/Vikings_(TV_series)] <NabbrqKR>,
+		For All Mankind [https://en.wikipedia.org/wiki/For_All_Mankind_(TV_series)] <uE0dRUFD>;
 
 
 	Fantasy ->

@@ -1,4 +1,8 @@
-project common spices in Bulgarian cuisine <gxt7bdGG> ->
+directives -> 
+	namespace <treeofall.private.projects.projectCommonSpices>;
+
+
+project common spices in Bulgarian cuisine <rnode> ->
 
 	Salt,
 	Sharena sol,

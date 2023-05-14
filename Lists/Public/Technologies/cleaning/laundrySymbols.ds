@@ -1,8 +1,12 @@
+directives ->
+	namespace <treeofall.public.technologies.cleaning>;
+
+
 // symbols "°C" and "°F" has been simplified to " C" and " F" due to inability 
 // of the current parser to parse the "°" symbol
 
 
-laundry symbols <6ZLXFM0u> ->
+laundry symbols <laundrySymbols> ->
 
 	ironing symbols <eKJY3asB>,
 	dry\-cleaning symbols <jeS6UX4W>,

@@ -1,4 +1,8 @@
-popular FOSS software licenses <GUgL0Cyx>->
+directives ->
+	namespace <treeofall.public.science.informatics.software>;
+
+
+popular FOSS software licenses <popfoss>->
 
 	Creative Commons Attribution ShareAlike 4.0 <ceOdBvXh>,						//Wikipedia
 	Creative Commons Attribution ShareAlike 3.0 <UBVRBRKd>,
@@ -18,7 +22,7 @@ popular FOSS software licenses <GUgL0Cyx>->
 
 
 
-software license types <esHQdUAX>->
+software license types <licenseTypes>->
 
 	proprietary software <4FS0SJlT>,
 	free and opensource software (FOSS) <y99V7bVT>; 						//can do anything

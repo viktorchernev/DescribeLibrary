@@ -1,4 +1,8 @@
-surgery suffixes [https://en.wikipedia.org/wiki/List_of_surgical_procedures] <nFY36N0w>->
+directives ->
+	namespace <treeofall.public.science.medicine>;
+
+
+surgery suffixes [https://en.wikipedia.org/wiki/List_of_surgical_procedures] <surgicalProcedureSuffixes>->
  
 	centesis \- surgical puncture of a body cavity\, joint\, organ\, or space with a hollow needle to draw out fluid.
     tripsy \- crushing or breaking up or destroying tissues, 

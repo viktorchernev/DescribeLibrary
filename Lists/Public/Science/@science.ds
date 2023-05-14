@@ -1,15 +1,19 @@
-science <fi58Z14e> ->
+directives ->
+	namespace <treeofall.public.science>;
+
+
+science <rnode> ->
 
 	math <eqSdixCL>,
-	informatics <informatics\/@informatics.ds\/q8g6a4WG>,
+	informatics <.informatics.rnode>,
 	
 	physics <SDrP10ZC>,
-	mechanics <mechanics\/@mechanics.ds\/VwBOamro>,
-	chemistry <chemistry.ds\/ZUfeNooG>,
+	mechanics <.mechanics.rnode>,
+	chemistry <.chemistry.rnode>,
 	
 	biology <za99oQky>,
-	medical science <medicine\/@medicine.ds\/nQjOBWr6>,
+	medical science <.medicine.rnode>,
 	
 	psychology <2niE7rIa>,
-	sociology <sociology\/@sociology.ds\/1DzVOIWU>,
+	sociology <.sociology.rnode>,
 	finance <08MiXjrP>;

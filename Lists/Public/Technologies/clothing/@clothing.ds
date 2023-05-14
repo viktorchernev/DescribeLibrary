@@ -1,4 +1,8 @@
-clothing <8GlmqTVI>->
+directives ->
+	namespace <treeofall.public.technologies.clothing>;
+
+
+clothing <rnode>->
 
 	male clothing <JiZc7cYu>,
 	female clothing <8wMbAerE>;
@@ -12,8 +16,8 @@ clothing <8GlmqTVI>->
 
 
 	male underwear  <GxlXQxXw>->
-		underwear <mansUnderwear.ds\/Ffa8450k>,
-		socks <mansSocks.ds\/lJH3jdiw>,
+		underwear <Ffa8450k>,
+		socks <lJH3jdiw>,
 		shirts <ffWheaye>;
 
 	male middlewear <kB4JekM2>->

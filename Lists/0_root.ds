@@ -1,7 +1,11 @@
-ROOT <rootnode>->
+directives -> 
+	namespace <treeofall>;
 
-	DOCUMENTATION <Documentation\/@documentation.ds\/2gRINQEw>,
-	PUBLIC <Public\/@public.ds\/7LnGYt1O>,
-	DRAFTS <Drafts\/@Drafts.ds\/doy7yDlX>,
-	PERSONAL <Personal\/@Personal.ds\/Ec5mLPL6>,
-	PRIVATE <Private\/@private.ds\/poK4q2UC>;
+
+ROOT <rnode>->
+
+	DOCUMENTATION <.documentation.rnode>,
+	PUBLIC <.public.rnode>,
+	DRAFTS <.drafts.rnode>,
+	PERSONAL <.personal.rnode>,
+	PRIVATE <.private.rnode>;

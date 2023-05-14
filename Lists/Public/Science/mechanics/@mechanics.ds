@@ -1,3 +1,7 @@
-mechanics <VwBOamro> ->
+directives ->
+	namespace <treeofall.public.science.mechanics>;
 
-	Mechanical Principles <mechanicalPrinciples.ds\/yHjqJzpT>;
+
+mechanics <rnode> ->
+
+	Mechanical Principles <mechanicalPrinciples>;

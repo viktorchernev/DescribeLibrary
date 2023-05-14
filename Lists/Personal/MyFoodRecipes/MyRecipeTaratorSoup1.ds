@@ -1,4 +1,8 @@
-tarator soup <c1k3rDMi> ->
+directives -> 
+	namespace <treeofall.personal.MyFoodRecipes>;
+
+
+tarator soup <MyRecipeTaratorSoup1> ->
 
 	ingredients ->
 

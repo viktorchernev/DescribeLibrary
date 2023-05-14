@@ -1,4 +1,8 @@
-emergency stash <LIuQjXYI> ->
+directives -> 
+	namespace <treeofall.private.stocking>;
+
+
+emergency stash <emergencyStash> ->
 
 	to buy <9gLmX4Uv>,
 	rice (4 x 1 kg)			(4.0 kg),

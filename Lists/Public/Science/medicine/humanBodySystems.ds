@@ -1,6 +1,10 @@
+directives ->
+	namespace <treeofall.public.science.medicine>;
+
+
 systems of the human body 
 [https://en.m.wikipedia.org/wiki/List_of_systems_of_the_human_body]
-<J6BhYzPG> ->
+<humanBodySystems> ->
 
     Nervous system,
 

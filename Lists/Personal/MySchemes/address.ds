@@ -1,4 +1,8 @@
-address <z0j4tpXK> -> country <k1YW0tCK>;
+directives -> 
+	namespace <treeofall.personal.MySchemes>;
+
+
+address <address> -> country <k1YW0tCK>;
 country <k1YW0tCK> -> province <ziro1Orr>;
 province <ziro1Orr> -> municipality <e8YIFlnw>;
 

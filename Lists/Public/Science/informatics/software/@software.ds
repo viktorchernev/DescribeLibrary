@@ -1,7 +1,13 @@
-software <VPolPVFo> ->
+directives ->
+	namespace <treeofall.public.science.informatics.software>;
 
-	open\-source software monetization strategies <FossMonetizationStrategies.ds\/OLDkSc1c>,
-	internet generations <wwwGenerations.ds\/7I38YRWM>,
-	licensing <licensing.ds\/NdwGmjvm>,
-	keystroke manuals <keystrokeManuals\/@keystrokeManuals.ds\/ngf3pvp5>,
-	types of software <typesOfSoftware.ds\/qcdOduAT>;
+
+software <rnode> ->
+
+	open\-source software monetization strategies <FossMonetizationStrategies>,
+	internet generations <wwwGenerations>,
+	licensing <licensing>,
+	popular FOSS software licenses <popfoss>,
+	software license types <licenseTypes>,
+	keystroke manuals <.keystrokeManuals.rnode>,
+	types of software <typesOfSoftware>;

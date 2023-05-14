@@ -1,10 +1,14 @@
+directives ->
+	namespace <treeofall.public.science.informatics.hardware>;
+
+
 //https://www.arcserve.com/blog/data-storage-lifespans-how-long-will-media-really-last | arcserve - data storage lifespans ...
 //https://www.youtube.com/watch?v=78raYWFWv6s | habiba - Magnetic Storage Media
 //https://www.youtube.com/watch?v=AvXXkB2jic0 | 108 Rare and Bizarre Media Types - 108 Rare and Bizarre Media Types
 //https://www.loc.gov/preservation/care/deterioratebrochure.html
 
 
-data storage devices <lwshuNGc> ->
+data storage devices <dataStorageDevices> ->
 	physical storage <VZfsNCQk>,
 	mechanical storage <4NLioa6D>,
 	magnetic storage media <OYkx09SN>,

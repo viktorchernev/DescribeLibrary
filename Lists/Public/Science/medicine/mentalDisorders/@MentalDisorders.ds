@@ -1,20 +1,24 @@
-mental disorders <wPynTZw9>->
+directives ->
+	namespace <treeofall.public.science.medicine.mentalDisorders>;
 
-	anxiety disorders <MentalDisorders\-AnxietyDisorders.ds\/ocGo0LaK>,
-	dissociative disorders <MentalDisorders\-DissociativeDisorders.ds\/T6jL9baA>,
-	mood disorders <MentalDisorders\-MoodDisorders.ds\/OedVvtuQ>,
-	trauma and stressor related disorders <MentalDisorders\-TraumaDisorders.ds\/l5W7B9js>,
-	neuro\-developmental disorders <MentalDisorders\-NeurodevelopmentalDisorders.ds\/fYheF1Zo>,
-	sleep\-wake disorders <MentalDisorders\-SleepWakeDisorders.ds\/dyI63HMn>,
-	neuro\-cognitive disorders <MentalDisorders\-NeurocognitiveDisorders.ds\/e32vTyAX>,
-	substance\-related and addictive disorders <MentalDisorders\-AddictiveDisorders.ds\/YDbVrlBz>,
-	paraphilias <MentalDisorders\-Paraphilias.ds\/3wRhikxq>,
-	somatic symptom related disorders <MentalDisorders\-SomaticDisorders.ds\/pgwbbXei>,
-	sexual dysfunctions <MentalDisorders\-SexualDisorders.ds\/SkKIesHA>,
-	elimination disorders <MentalDisorders\-EliminationDisorders.ds\/nFlcC7Gg>,
-	feeding and eating disorders <MentalDisorders\-EatingDisorders.ds\/jOiK6H4G>,
-	disruptive impulse\-control and conduct disorders <MentalDisorders\-ConductDisorders.ds\/57BMdLN5>,
-	obsessive\-compulsive and related disorders <MentalDisorders\-OCDs.ds\/Ns1svRhR>,
-	schizophrenia spectrum and other psychotic disorders <MentalDisorders\-Schizophrenia.ds\/YSirAQpf>,
-	personality disorders <MentalDisorders\-PersonalityDisorders.ds\/KuynuRbr>,
-	other disorders <MentalDisorders\-OtherDisorders.ds\/nb8bGxKx>;
+
+mental disorders <rnode>->
+
+	anxiety disorders <AnxietyDisorders>,
+	dissociative disorders <DissociativeDisorders>,
+	mood disorders <MoodDisorders>,
+	trauma and stressor related disorders <TraumaDisorders>,
+	neuro\-developmental disorders <NeurodevelopmentalDisorders>,
+	sleep\-wake disorders <SleepWakeDisorders>,
+	neuro\-cognitive disorders <NeurocognitiveDisorders>,
+	substance\-related and addictive disorders <AddictiveDisorders>,
+	paraphilias <Paraphilias>,
+	somatic symptom related disorders <SomaticDisorders>,
+	sexual dysfunctions <SexualDisorders>,
+	elimination disorders <EliminationDisorders>,
+	feeding and eating disorders <EatingDisorders>,
+	disruptive impulse\-control and conduct disorders <ConductDisorders>,
+	obsessive\-compulsive and related disorders <OCDs>,
+	schizophrenia spectrum and other psychotic disorders <Schizophrenia>,
+	personality disorders <PersonalityDisorders>,
+	other disorders <OtherDisorders>;

@@ -1,4 +1,8 @@
-dissociative disorders <T6jL9baA>->
+directives ->
+	namespace <treeofall.public.science.medicine.mentalDisorders>;
+
+
+dissociative disorders <DissociativeDisorders>->
 
     Dissociative identity disorder (multiple personality disorder) <q07t2VT9>,
     Dissociative Amnesia (psychogenic amnesia) <uaCJo7fG>,

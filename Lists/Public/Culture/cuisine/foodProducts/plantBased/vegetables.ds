@@ -1,6 +1,9 @@
+directives -> namespace <treeofall.public.culture.cuisine.foodProducts.plantBased>;
+
+
 // (M) My own experience and commonsense - DemonOfReason
 
-vegetables [https://en.wikipedia.org/wiki/Vegetable] <9nD55spf> ->
+vegetables [https://en.wikipedia.org/wiki/Vegetable] <vegetables> ->
 
 	Avocados <C4Rh0Ovz>,
 	Leafy vegetables <VFJ9qyyw>,

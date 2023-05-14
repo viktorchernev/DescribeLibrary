@@ -1,4 +1,7 @@
-drinks <oQ8oko6c> ->
+directives -> namespace <treeofall.public.culture.cuisine>;
+
+
+drinks <drinks> ->
 
 	tea <PN0smG4C>,
 	coffee <LWLJgkHP>,

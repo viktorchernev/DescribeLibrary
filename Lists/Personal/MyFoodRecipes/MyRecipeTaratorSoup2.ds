@@ -1,4 +1,8 @@
-tarator soup (900\-950g | 484 kcal) <BR3FtI57> ->
+directives -> 
+	namespace <treeofall.personal.MyFoodRecipes>;
+
+
+tarator soup (900\-950g | 484 kcal) <MyRecipeTaratorSoup2> ->
 
 	ingredients ->									//per 100g	in this recipe
 

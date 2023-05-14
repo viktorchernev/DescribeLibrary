@@ -1,10 +1,13 @@
+directives -> namespace <treeofall.public.culture.cuisine.foodProducts.plantBased>;
+
+
 //https://en.wikipedia.org/wiki/List_of_edible_seeds - CHECK THIS TOO!
 nuts 
 [
 	https://en.wikipedia.org/wiki/Nut_(fruit) | Nut (fruit), 
 	https://en.wikipedia.org/wiki/List_of_culinary_nuts | List of culinary nuts
 ] 
-<Mgk2gSoj> ->
+<nuts> ->
 
 	Peanuts <QemHrJA1>,
 	Hazelnuts <d8MMgudl>,

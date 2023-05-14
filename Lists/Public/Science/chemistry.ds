@@ -1,4 +1,8 @@
-chemistry <ZUfeNooG> ->
+directives ->
+	namespace <treeofall.public.science.chemistry>;
+
+
+chemistry <rnode> ->
 
 	tastes <nQPZogT1>,
 	smells <OK9Tfoo7>,

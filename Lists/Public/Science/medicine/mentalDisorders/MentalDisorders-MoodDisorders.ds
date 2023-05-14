@@ -1,4 +1,8 @@
-mood disorders <OedVvtuQ>->
+directives ->
+	namespace <treeofall.public.science.medicine.mentalDisorders>;
+
+
+mood disorders <MoodDisorders>->
 
 	depressive disorders <jcGzQcdJ>,
 	bipolar disorders <YdW8FdCX>,

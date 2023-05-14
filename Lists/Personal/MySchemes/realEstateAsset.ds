@@ -1,4 +1,8 @@
-real estate asset <H0i0z4C2> ->
+directives -> 
+	namespace <treeofall.personal.MySchemes>;
+
+
+real estate asset <realestateAsset> ->
 
 	collective parts of building <umkiyrbc>,
 	owned part of building <z9Mf13HO>;

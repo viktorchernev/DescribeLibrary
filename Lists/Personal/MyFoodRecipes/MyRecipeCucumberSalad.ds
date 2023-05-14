@@ -1,4 +1,8 @@
-cucumber salad <FhiwZpra> ->
+directives -> 
+	namespace <treeofall.personal.MyFoodRecipes>;
+
+
+cucumber salad <MyRecipeCucumberSalad> ->
 
 	ingredients ->									//per 100g	//in this recipe
 

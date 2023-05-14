@@ -1,8 +1,12 @@
-culture <81LFNJ6z>->
+directives ->
+	namespace <treeofall.public.culture>;
+
+
+culture <rnode>->
 
 	arts <guxvT8Mb>,
-	recreation <recreation\/@recreation.ds\/570BfVm7>,
-	cuisine <cuisine\/@cuisine.ds\/IOkgTnQG>,
+	recreation <.recreation.rnode>,
+	cuisine <.cuisine.rnode>,
 	places <zXXu7P9Y>,
 	law <5vlbLQVw>,
-	pop culture <popCulture.ds\/ThNOSwjc>;
+	pop culture <popCulture>;

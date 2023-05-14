@@ -1,4 +1,8 @@
-github \-push <L3tEGgEw> ->
+directives -> 
+	namespace <treeofall.personal.MyHomeAdmin>;
+
+
+github \-push <githubPush> ->
 
 	git status <8tpw0FD4>,
 	git add . <AQHG2xgV>,

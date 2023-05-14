@@ -1,4 +1,8 @@
-anxiety disorders <ocGo0LaK>->
+directives ->
+	namespace <treeofall.public.science.medicine.mentalDisorders>;
+
+
+anxiety disorders <AnxietyDisorders>->
 
 	Separation anxiety disorder <n6pA8Mcz>,
     Phobia <6riCmLY0>,

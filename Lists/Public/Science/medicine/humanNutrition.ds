@@ -1,4 +1,8 @@
-human nutrition <8bvCDgaJ> ->
+directives ->
+	namespace <treeofall.public.science.medicine>;
+
+
+human nutrition <humanNutrition> ->
 
 	macronutrients <7BfDtacB>,
 	micronutrients <XxivUl1V>;

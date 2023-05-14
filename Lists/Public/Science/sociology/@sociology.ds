@@ -1,6 +1,10 @@
-sociology <1DzVOIWU> -> 
+directives ->
+	namespace <treeofall.public.science.sociology>;
 
-	TODO <TODO.ds\/dgK4fYI9>,
-	types of government <typesOfGovernment.ds\/QV9Bm6k9>,
-	western world generation names <generationsNames.ds\/SZ4K8D39>,
-	Dunbar's number <dunbarsNumber.ds\/WOqfy8ml>;
+
+sociology <rnode> -> 
+
+	TODO <TODO>,
+	types of government <typesOfGovernment>,
+	western world generation names <generationsNames>,
+	Dunbar's number <dunbarsNumber>;

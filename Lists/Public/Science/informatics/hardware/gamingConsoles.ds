@@ -1,4 +1,8 @@
-gaming consoles <mIF0GWzF> ->
+directives ->
+	namespace <treeofall.public.science.informatics.hardware>;
+
+
+gaming consoles <gamingConsoles> ->
 
 	Xbox <8UTwsuis>,
 	Xbox 360 <ZzKyLRog>,

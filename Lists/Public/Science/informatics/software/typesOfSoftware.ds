@@ -1,4 +1,8 @@
-types of software <qcdOduAT> ->
+directives ->
+	namespace <treeofall.public.science.informatics.software>;
+
+
+types of software <typesOfSoftware> ->
 
 	viewers and editors <HKZNYOfM>,
 	players <BReKMznP>,
@@ -10,16 +14,16 @@ types of software <qcdOduAT> ->
 gaming <xQJKWUPm> ->
 
 	games <EtSk80MV>,
-	emulators <machinesAndEmulators\/@emulators.ds\/X9zIvEyB>;
+	emulators <.machinesAndEmulators.rnode>;
 
 games <EtSk80MV> -> 
 
-	text games <games\/videoGames.ds\/l5FE6P2J>,
-	arcade games <games\/videoGames.ds\/4HR9VCT4>,
-	NES games <games\/NesGames.ds\/byo6hBSs>,
+	text games <.games.textgames>,
+	arcade games <.games.arcade>,
+	NES games <.games.nes>,
 	DOS games (1990s) <sms7kf2I>,
-	retro PC games (2000s) <games\/videoGames.ds\/mVuQ3Xjb>,
-	PC games <games\/videoGames.ds\/mwYCiF6e>;
+	retro PC games (2000s) <.games.retropc>,
+	PC games <.games.pc>;
 
 software development <Bj7UhrSM> ->
 

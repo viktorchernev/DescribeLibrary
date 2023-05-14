@@ -1,6 +1,9 @@
-my home remedies <pshh36dR> ->
+directives -> 
+	namespace <treeofall.personal.MyHomeRemedies>;
 
-	remove nicotine stains from fingers <MyHomeRemediesStainedFingers.ds\/CYXixRpz>,
-	naturally lower cholestarol <MyHomeRemediesLowerCholesterol.ds\/36QuGuQ7>,
-	home remedies for fungal infection on feet <MyHomeRemediesFeetFungal.ds\/8IhkGeXF>;
+my home remedies <rnode> ->
+
+	remove nicotine stains from fingers <MyHomeRemediesStainedFingers>,
+	naturally lower cholestarol <MyHomeRemediesLowerCholesterol>,
+	home remedies for fungal infection on feet <MyHomeRemediesFeetFungal>;
 	

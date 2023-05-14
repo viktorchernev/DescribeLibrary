@@ -1,6 +1,9 @@
+directives -> namespace <treeofall.public.science.informatics.software.games>;
+
+
 //https://www.nintendolife.com/games/browse?system=nes
 
-NES games <byo6hBSs> ->
+NES games <nes> ->
 
 	popular games <K67yCQqR>,
 	all licensed games <M8RaXxVB>,			//should be 716

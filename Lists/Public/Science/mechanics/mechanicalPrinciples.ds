@@ -1,4 +1,8 @@
-Mechanical Principles <yHjqJzpT> ->
+directives ->
+	namespace <treeofall.public.science.mechanics>;
+
+
+Mechanical Principles <mechanicalPrinciples> ->
 
 	Schmidt coupling,
 	Constant\-velocity joint (CV joint),

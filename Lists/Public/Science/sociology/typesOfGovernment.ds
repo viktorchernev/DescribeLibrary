@@ -1,5 +1,9 @@
+directives ->
+	namespace <treeofall.public.science.sociology>;
+
+
 //https://thebestschools.org/magazine/common-forms-of-government-study-starters/
-types of government <QV9Bm6k9> ->
+types of government <typesOfGovernment> ->
 
     Democracy <deqRykSP>,
     Communism <WoorlCEF>,

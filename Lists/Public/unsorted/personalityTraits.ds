@@ -1,4 +1,7 @@
-personality types <pLtDpVR2> ->
+directives -> namespace <treeofall.public.unsorted>;
+
+
+personality types <personalityTraits> ->
 
 	Machiavellianist,
 	Sociopath,

@@ -1,4 +1,8 @@
-tripe soup with milk <d9kvqzJD> ->
+directives -> 
+	namespace <treeofall.personal.MyFoodRecipes>;
+
+
+tripe soup with milk <MyRecipeTripeSoupWMilk> ->
 
 	ingredients ->
 

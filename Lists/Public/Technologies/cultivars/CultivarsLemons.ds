@@ -1,5 +1,9 @@
+directives ->
+	namespace <treeofall.public.technologies.cultivars>;
+
+
 Lemon cultivars
-[https://restaurantclicks.com/types-of-lemons/] <Rt8wnanV> ->
+[https://restaurantclicks.com/types-of-lemons/] <CultivarsLemons> ->
 
 	Lunario Lemon,
 	Lisbon Lemon,

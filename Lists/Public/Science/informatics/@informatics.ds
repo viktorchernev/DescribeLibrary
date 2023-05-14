@@ -1,5 +1,9 @@
-informatics <q8g6a4WG> ->
+directives ->
+	namespace <treeofall.public.science.informatics>;
 
-	software <software\/@software.ds\/VPolPVFo>,
-	hardware <hardware\/@hardware.ds\/yDcEs8e2>;
+
+informatics <rnode> ->
+
+	software <.software.rnode>,
+	hardware <.hardware.rnode>;
 	

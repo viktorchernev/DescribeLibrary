@@ -1,4 +1,8 @@
-plants growth additives <Ktt2m2Ip> ->
+directives ->
+	namespace <treeofall.public.technologies.cultivars>;
+
+
+plants growth additives <plantsGrowthAdditives> ->
 
 	chemicals ->
 

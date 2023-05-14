@@ -1,4 +1,8 @@
-Install media wiki on XAMPP <520nEVaz> ->
+directives -> 
+	namespace <treeofall.personal.MyHomeAdmin>;
+
+
+Install media wiki on XAMPP <MyInstallMediawikiOnXampp> ->
 
 	Download and extract MediaWiki <0QoMyCXH>,
 	Rename MediaWiki folder to something appropriate <pRk1Ab58>,

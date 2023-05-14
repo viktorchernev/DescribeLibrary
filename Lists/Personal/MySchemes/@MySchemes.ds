@@ -1,6 +1,10 @@
-my schemes <vLmNRliy> ->
+directives -> 
+	namespace <treeofall.personal.MySchemes>;
 
-	address <address.ds\/z0j4tpXK>,
-	real estate asset <realestateAsset.ds\/H0i0z4C2>,
-	alcohol drinking lapse <alcoholDrinkingLapse.ds\/zdLa4hAW>,
-	brutto\/netto <bruttoNetto.ds\/bHD9YaSv>;
+
+my schemes <rnode> ->
+
+	address <address>,
+	real estate asset <realestateAsset>,
+	alcohol drinking lapse <alcoholDrinkingLapse>,
+	brutto\/netto <bruttoNetto>;

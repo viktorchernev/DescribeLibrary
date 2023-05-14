@@ -1,4 +1,7 @@
-types of food <m6gY3xTH> ->
+directives -> namespace <treeofall.public.culture.cuisine>;
+
+
+types of food <foodTypes> ->
 
 	fruits,			//meaning to eat raw or cooked fruits
 	vegetables,		//meaning to eat raw or cooked vegetables

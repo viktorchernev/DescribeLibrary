@@ -1,6 +1,10 @@
-DRAFTS <doy7yDlX> ->
+directives -> 
+	namespace <treeofall.drafts>;
 
-	alcoholism medications <alcoholismMedications.ds\/U4jCNNrI>,
-	types of optical disks <opticalDiskTypes.ds\/01PcEhwl>;
+
+DRAFTS <rnode> ->
+
+	alcoholism medications <U4jCNNrI>,
+	types of optical disks <01PcEhwl>;
 	//dog types <dogTypes.dr>,
 	//dog breeds <dogBreeds.dr>;

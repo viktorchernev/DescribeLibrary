@@ -1,3 +1,7 @@
+directives ->
+	namespace <treeofall.public.technologies.cultivars>;
+
+
 local links ->
 
 	pepperscale.com [https://www.pepperscale.com/hot-pepper-list/],
@@ -7,7 +11,7 @@ local links ->
 	hotfarm.eu [https://hotfarm.eu/category/semena/];
 
 
-Hot peppers cultivars <CAAO4E9U> ->
+Hot peppers cultivars <CultivarsHotPeppers> ->
 
 	Mild ->
 

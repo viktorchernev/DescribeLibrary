@@ -1,3 +1,7 @@
-hobbies <REnrZnDz> -> 
+directives ->
+	namespace <treeofall.public.culture.recreation.hobbies>;
 
-	model building <modelBuilding.ds\/z1wC2MCI>;
+
+hobbies <rnode> -> 
+
+	model building <modelBuilding>;

@@ -1,5 +1,8 @@
+directives -> namespace <treeofall.public.science.informatics.software.games>;
+
+
 // https://lifehacker.com/10-of-the-best-text-based-adventure-games-you-never-kne-1848770935/slides/2
-text games <l5FE6P2J> ->
+text games <textgames> ->
 
 	The Dreamhold [https://en.wikipedia.org/wiki/The_Dreamhold] <94d7FP7B>,
 	Colossal Cave Adventure [https://en.wikipedia.org/wiki/Colossal_Cave_Adventure] <UMAkbvw0>,
@@ -11,7 +14,7 @@ text games <l5FE6P2J> ->
 	Zork III: The Dungeon Master [https://en.wikipedia.org/wiki/Zork] <KK0UQosI>;
 
 
-arcade games <4HR9VCT4> ->
+arcade games <arcade> ->
 	X \- Men <U0LyMahF>,
 	NBA Jam <Otfedw8y>,
 	Mortal Kombat 2 <3a1cE76G>,
@@ -21,7 +24,7 @@ arcade games <4HR9VCT4> ->
 	Metal Slug X <oyczRq8A>,
 	Cadillacs and Dinosaurs  <ULToN2G6>;
 
-retro PC games (2000s) <mVuQ3Xjb> ->
+retro PC games (2000s) <retropc> ->
 
 	Counter\-Strike <WUb8JESP>, 
 	Diablo II <QAVUgL9Z>,
@@ -36,7 +39,7 @@ retro PC games (2000s) <mVuQ3Xjb> ->
 
 PC games <mwYCiF6e> ->
 
-	Banished [https://en.wikipedia.org/wiki/Banished_(video_game)] <u4pP5UbO>,
+	Banished [https://en.wikipedia.org/wiki/Banished_(video_game)] <pc>,
 	Farthest Frontier <6ABec6Zo>,
 	Horizon Zero Dawn <HDu7xnqR>,
-	Call of Duty <CodGames.ds\/VdHYtYMb>;
+	Call of Duty <CodGames>;

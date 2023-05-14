@@ -1,9 +1,13 @@
+directives ->namespace <treeofall.public.science.informatics.software.keystrokeManuals>;
+
+
+
 //https://m.sites.google.com/site/heroes3hd/eng/ui-and-game-settings-extended-functionality
 //https://www.youtube.com/watch?v=-buTLAJ-Qkg
 //Trial and error in Heroes 3 HoA + HD
 
 
-Heroes 3 + HD <IUKPt52d>->
+Heroes 3 + HD <Heroes3HD>->
 
 	//Game
 	Quick menu (F5) <ihzFDRv8>,

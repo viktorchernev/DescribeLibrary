@@ -1,4 +1,8 @@
-substance\-related and addictive disorders <YDbVrlBz>->
+directives ->
+	namespace <treeofall.public.science.medicine.mentalDisorders>;
+
+
+substance\-related and addictive disorders <AddictiveDisorders>->
 
 	substance related disorders <WW5Xezlw>,
 	disorders due to use of alcohol <30Pt9XPF>,
