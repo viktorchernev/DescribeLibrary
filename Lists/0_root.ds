@@ -2,7 +2,7 @@ directives ->
 	namespace <treeofall>;
 
 
-ROOT <rnode>->
+ROOT<rnode>->
 
 	DOCUMENTATION <.documentation.rnode>,
 	PUBLIC <.public.rnode>,
