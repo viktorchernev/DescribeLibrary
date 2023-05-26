@@ -33,4 +33,5 @@ PERSONAL <rnode> ->
 	my home remedies <.MyHomeRemedies.rnode>,
 	my food recipes <.MyFoodRecipes.rnode>,
 	my diet foods <MyDietFoods>,
-	my prep foods <MyPrepFoods>;
+	my prep foods <MyPrepFoods>,
+	my food calories <MyCalories>;

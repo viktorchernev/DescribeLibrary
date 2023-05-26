@@ -1,0 +1,51 @@
+directives -> 
+	namespace <treeofall.personal>;
+
+
+my calories <MyCalories> ->
+
+	alphabetical order ->
+
+		Apple Green (58),
+		Avocado (160),
+		Banana (89),
+		Banana Juice (52) <h22>,
+		Baked Corn (365),
+		Beer (44) <ZNg>,
+		Bean Ljutenica Salad (243),
+		Bread (265),
+		Chicken Breast Roasted (164),
+		Cucumber (19),
+		Kebapche (253),
+		Pear (57),
+		Peanuts (567),
+		Pretzel Sticks (403),
+		Roast Bonito Fish (130),
+		Tomato (35),
+		Tomato Juice (17) <crj>,
+		Sirene (264),
+		Snejanka Salad (160),
+		Sour Milk (48),
+		Stevia Soda (5) <4SF>;
+	
+	Drinks ->
+	
+		Beer (44) <ZNg>,
+		Banana Juice (52) <h22>,
+		Stevia Soda (5) <4SF>,
+		Tomato Juice (17) <crj>;
+	
+	Fruits and Vegies ->
+	
+		Apple Green (58),
+		Avocado (160),
+		Banana (89),
+		Cucumber (19),
+		Pear (57),
+		Tomato (35);
+	
+	Snacks ->
+	
+		Baked Corn (365),
+		Peanuts (567),
+		Pretzel Sticks (403);
