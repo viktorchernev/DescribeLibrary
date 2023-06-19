@@ -2,7 +2,7 @@ directives ->
 	namespace <treeofall.personal>;
 
 
-my calories <MyCalories> ->
+food calories <MyCalories> ->
 
 	alphabetical order ->
 
@@ -28,6 +28,7 @@ my calories <MyCalories> ->
 		Sour Milk (48),
 		Stevia Soda (5) <4SF>;
 	
+	gap {empty},
 	Drinks ->
 	
 		Beer (44) <ZNg>,
@@ -38,10 +39,12 @@ my calories <MyCalories> ->
 	Fruits and Vegies ->
 	
 		Apple Green (58),
+		Appricot (48),
 		Avocado (160),
 		Banana (89),
 		Cucumber (19),
 		Pear (57),
+		Peach (39),
 		Tomato (35);
 	
 	Snacks ->
