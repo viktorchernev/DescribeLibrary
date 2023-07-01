@@ -4,7 +4,14 @@ directives ->
 
 my schemes <rnode> ->
 
+	website presence <QkXABwD2>,
 	address <address>,
 	real estate asset <realestateAsset>,
 	alcohol drinking lapse <alcoholDrinkingLapse>,
 	brutto\/netto <bruttoNetto>;
+
+website presence <QkXABwD2> ->
+
+	Minimal,
+	Adequate,
+	Star;

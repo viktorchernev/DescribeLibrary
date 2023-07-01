@@ -2,10 +2,8 @@ directives -> namespace <treeofall.public.unsorted>;
 
 
 Amount of sleep needed\, by age
-[
-    https://www.cdc.gov/sleep/about_sleep/how_much_sleep.html ,
-    https://www.mayoclinic.org/healthy-lifestyle/adult-health/expert-answers/how-many-hours-of-sleep-are-enough/faq-20057898
-]
+[https://www.cdc.gov/sleep/about_sleep/how_much_sleep.html]
+[https://www.mayoclinic.org/healthy-lifestyle/adult-health/expert-answers/how-many-hours-of-sleep-are-enough/faq-20057898]
 <amountSleepNeeded> ->
 
 Newborn (0 to 3 months)\, 14 to 17 hours <jKoZzpEA>,

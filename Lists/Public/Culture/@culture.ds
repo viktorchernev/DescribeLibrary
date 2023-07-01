@@ -5,6 +5,7 @@ directives ->
 culture <rnode>->
 
 	arts <guxvT8Mb>,
+	music <.music.rnode>,
 	recreation <.recreation.rnode>,
 	cuisine <.cuisine.rnode>,
 	places <zXXu7P9Y>,
