@@ -4,6 +4,8 @@ directives ->
 
 food calories <MyCalories> ->
 
+	common measuring units in the kitchen <kitchenunits>,
+
 	unsorted ->
 
 		Bean Ljutenica Salad (243),
@@ -131,6 +133,16 @@ food calories <MyCalories> ->
 			200g sirene x 264 (328),
 			60ml sunflower oil x 884 (530);
 		
+		bean stew (141) [https://www.1001recepti.com/recipe/?recipe_id=2-bob-iahniia] ->
+		
+			250g beans x 347 (868),
+			150g carrot x 41 (61),
+			150g pepper x 20 (30),
+			100g onion x 40 (40),
+			20g sugar x 387 (77),
+			100g onion x 40 (40),
+			120ml sunflower oil x 884 (1060),
+			10g flour x 364 (36);
 		;
 		
 	Products ->
