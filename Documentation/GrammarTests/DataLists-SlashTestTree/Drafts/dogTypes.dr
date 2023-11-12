@@ -1,0 +1,44 @@
+//https://a-z-animals.com/blog/types-of-hunting-dogs/
+//https://en.wikipedia.org/wiki/Setter
+
+
+hunting dogs [https://en.wikipedia.org/wiki/Gun_dog] <9gsXC6Ir> ->
+
+	terriers <ThlqdvYt>,				//For hunting small game
+	retrievers <H8iAol5Y>,				//For bringing back game
+	pointers <aK1TN90d>,				//For spotting prey
+	setters <aGxxdPoW>,					//For spotting prey
+	hounds <26PqOVIB>,					//For tracking prey
+	water dogs <DQr5R2x6>,				//For flushing and retrieving game from water
+	spaniels <nJIdl7Cv>,				//For flushing prey
+
+	hounds <26PqOVIB> ->
+
+		Scent hounds <UKkMo1n8>,		//For tracking prey
+		Sight hounds <pY3s444B>;		//For tracking prey
+
+
+
+
+herding dogs [https://en.wikipedia.org/wiki/Herding_dog] <h9KbrDkL> ->
+
+	heelers <HQXZBfmJ>,					//biting heels
+	headers <DvBgLQ7u>,					//staring at cattle
+	tending dogs <6xkiyI4L>,			//blocking off path as living fence
+
+	//Australian Kelpie and Australian Koolie use both these methods and also 
+	//run along the backs of sheep so are said to head, heel, and back.
+	
+	//Other types such as the Australian Shepherd, English Shepherd and Welsh 
+	//Sheepdog are moderate to loose eyed, working more independently.
+
+	//New Zealand Huntaway uses its loud, deep bark to muster mobs of sheep
+	
+	//guard dogs
+
+
+
+
+work dogs <mqXZXryu> ->
+toy dogs <zBRhvNQM> ->
+other <u7tAiK9N> ->

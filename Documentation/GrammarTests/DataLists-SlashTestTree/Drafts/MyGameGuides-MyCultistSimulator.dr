@@ -1,0 +1,96 @@
+lore ->
+
+	Secret Histories,
+	Lantern, 
+	Forge, 
+	Edge, 
+	Winter, 
+	Heart, 
+	Grail, 
+	Moth, 
+	Knock;
+
+
+
+
+
+
+actions ->
+
+	permanent actions ->
+	
+		Time Passes,
+		Work,
+		Dream,
+		Study,
+		Talk,
+		Explore;
+
+
+	seasons -> //One of these actions will be executed every cycle of Time Passing
+	
+		Season of Ambitions: Exotic Cravings?,
+		Season of Ardours: Trysts and Interludes,
+		Season of Despair: Bleak Thoughts,
+		Season of Sickness: Sickness,
+		Season of Suspicion: The Wrong Kind of Attention,
+		Season of Visions: A Trembling in the Air;
+		
+
+	random actions ->
+		
+		The Course of the Heart - produces Vitality,
+		Old Unhappy Far-off Things - produces Restlessness,
+		A Light in the Skull - produces Erudition,
+		The Place Behind Desire - produces Glimmering,
+		The Dark, the Light - produces Glimmering,
+		Night Terrors - produces Dread,
+		New Colours - produces Fascination,
+
+
+
+
+
+Abilities ->
+
+	Health,
+	Vitality (180),
+	Vitality: a Lesson Learnt (300),
+	Skill: a Stronger Physique,
+	
+	An Affliction (180),
+	An Injury,
+	Decreptitude,
+	
+	Reason,
+	Erudition (180),
+	Erudition: a Lesson Learnt (300),
+	Skill: Scholarship,
+
+	Passion,
+	Glimmering,
+	Glimmering: a Lesson Learnt (300),
+	Skill: a Vivid Imagination;
+
+
+
+Fleeting Reminiscence (120)
+Contentment
+Restlessness
+Dread (180)
+Fascination
+
+
+recipes ->
+
+¹	Get Health: Study Vitality + Vitality
+	Get Health: Study Skill: a Stronger Physique + Vitality: a Lesson Learnt + Vitality: a Lesson Learnt,
+	Get Vitality: Work with Health,
+	Get Vitality: Study with Health,
+	Get Contentment: Dream with 1 Funds,
+	Get Dread: Dream Health,
+
+	Remove Fascination: Dream Fascination + Fleeting Reminiscence,
+	Remove Fascination: Dream Fascination + Dread,
+	Remove Dread: Dream Dread + Contentment,
+	Remove An Affliction: Dream An Affliction + 1 Funds + 1 Vitality;

@@ -1,0 +1,12 @@
+medicine <nQjOBWr6> ->
+
+	human medicine <cVSaf870>,
+	veterinary medicine <HUjgDJhL>;
+
+human medicine <cVSaf870> ->
+
+	systems of the human body <humanBodySystems.ds\/J6BhYzPG>,
+	surgery suffixes <surgicalProcedureSuffixes.ds\/nFY36N0w>,
+	human nutrition <humanNutrition.ds\/8bvCDgaJ>,
+	human diseases <humanDiseases.ds\/qUCogC1f>;
+	

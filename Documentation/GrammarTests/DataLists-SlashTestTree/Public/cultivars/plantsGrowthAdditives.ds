@@ -1,0 +1,37 @@
+plants growth additives <Ktt2m2Ip> ->
+
+	chemicals ->
+
+		//pH regulation
+		pH Down Grow,
+		pH Down Bloom,
+		pH Up,
+		
+		//poisons
+		fungicides,
+		insecticides,
+		disinfectants,
+		
+		//fertilisers
+		grow,
+		bloom,
+		micro,
+		
+		//additional fertilisers
+		cal\-mag,
+		sugar shot,
+		enzymes+,
+		microfauna,
+		
+		bloom booster,
+		root stimulator,
+
+		flowering enhancer,
+		final solution;
+
+
+	microfauna ->
+
+		trichoderma,
+		endomycorrhizae,
+		rhizobacteria;

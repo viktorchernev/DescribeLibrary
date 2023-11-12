@@ -1,9 +1,9 @@
 macronutrients ->
 
-    fiber,
-    water;
+    fiber;,
+    water;;
 
 micronutrients ->
 
-    vitamins (ABCDEK),
-    minerals (micronutrients);
+    vitamins (ABCDEK),,
+    minerals (micronutrients),;
