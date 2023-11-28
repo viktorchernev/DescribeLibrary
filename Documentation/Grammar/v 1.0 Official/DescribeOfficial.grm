@@ -55,11 +55,11 @@ Text = {TextCharacter}+
 ! Preprocessor needs to escape single right arrows ">" - "\>"
 <producer> ::= Hyphen RightArrow RightArrow
 
-! Preprocessor needs to doubles comma followed by a new line ",\n" - ",,\n"
+! Preprocessor needs to double comma followed by a new line ",\n" - ",,\n"
 ! Preprocessor needs to escape single comas "," - "\,"
 <separator> ::= Separator Separator
 
-! Preprocessor needs to doubles semicolon followed by a new line ";\n" - ";;\n"
+! Preprocessor needs to double semicolon followed by a new line ";\n" - ";;\n"
 ! Preprocessor needs to escape single semicolons ";" - "\;"
 <terminator> ::= Terminator Terminator
 
