@@ -20,10 +20,22 @@ food calories <MyCalories> ->
 	gap {empty},
 	Drinks ->
 	
+                alcohol {comment},
 		Beer (44) <ZNg>,
-		Banana Juice (52) <h22>,
+                Apple Cider (60) <ZNc>,
+
+                gap {empty},
+                sodas {comment},
+                Sparkling Water (0) <4SG>,
 		Stevia Soda (5) <4SF>,
-		Tomato Juice (17) <crj>;
+
+                gap {empty},
+                juices {comment},
+		Tomato Juice (17) <crj>,
+                Banana Juice (55) <h22>,
+                Orange Juice (43) <h03>,
+                Multivitamin Juice (46) <h01>,
+                Apple Juice (45) <h02>;
 	
 	Fruits ->
 	
@@ -64,6 +76,8 @@ food calories <MyCalories> ->
 	
 		Carrot (41),
 		Cucumber (19),
+                Eggplant (25),
+                Mushroom (22),
 		Pepper (20),
 		Tomato (35),
 		Onion (40),
@@ -88,8 +102,9 @@ food calories <MyCalories> ->
 		Roasted Pecans (710),
 		
 		gap {empty},
+                Kakino tane (379),
 		Pretzel Sticks (403);
-	
+
 	Grill ->
 	
 		Grilled Chicken Breast (165),

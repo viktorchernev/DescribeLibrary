@@ -7,11 +7,19 @@ PERSONAL <rnode> ->
 	my schemes <.MySchemes.rnode>,
 	home admin <DKwxVqaw> ->
 
+		documentation generation software <.MyHomeAdmin.dogenSoftware>,
+		icon packs <.MyHomeAdmin.iconPacks>,
+		second brain apps <.MyHomeAdmin.secondBrainApps>,
+		image generator AI <.MyHomeAdmin.imageGeneration>,
+		
+		gap {empty},
 		My Android phone apps I <.MyHomeAdmin.MyPhoneApps1>,
 		My Android phone apps II <.MyHomeAdmin.MyPhoneApps2>,
 		My Windows personalization <.MyHomeAdmin.MyPersonalizeWindows>,
 		My backup Android phone <.MyHomeAdmin.MyBackupAndroid>,
 		Install media wiki on XAMPP <.MyHomeAdmin.MyInstallMediawikiOnXampp>,
+		
+		gap {empty},
 		github \-push <.MyHomeAdmin.githubPush>,
 		github \-edit last commit message <.MyHomeAdmin.githubEditCommitMessage>;
 
@@ -23,7 +31,8 @@ PERSONAL <rnode> ->
 		My movies <.MyEntertainment.MyMovies>,
 		My TV shows <.MyEntertainment.MyTVshows>,
 		My pornstars <.MyEntertainment.MyPornstars>,
-		My youtube channels <.MyEntertainment.MyYoutube>;
+		My youtube channels <.MyEntertainment.MyYoutube>,
+		My youtube videos <.MyEntertainment.MyYoutubeVideos>;
 
 
 	my instructables <RNDGwEqh> ->

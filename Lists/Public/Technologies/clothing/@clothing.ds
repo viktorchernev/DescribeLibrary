@@ -4,9 +4,20 @@ directives ->
 
 clothing <rnode>->
 
+	general types of clothing ->
+	
+	    from head down,
+	    from face back,
+	    from showders down,
+	    from waist down,
+	    from hands up,
+	    from feet up;
+	    
+	gap {empty},
 	male clothing <JiZc7cYu>,
 	female clothing <8wMbAerE>;
 
+	
 
 	male clothing  <JiZc7cYu>->
 		male underwear <GxlXQxXw>,

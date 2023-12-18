@@ -1,4 +1,6 @@
 directives ->
+	
+	delimiter-mode <mono>,
 	namespace <treeofall.public>;
 
 PUBLIC <rnode> ->
@@ -9,8 +11,5 @@ PUBLIC <rnode> ->
 	technologies and inventions <.technologies.rnode>,
 	industries <.industries.rnode>,
 	obstacles <.obstacles.rnode>,
+	dark arts <.darkarts.rnode>,
 	unsorted <.unsorted.rnode>;
-	
-	//clothing <clothing\/@clothing.ds\/8GlmqTVI>,
-	//cleaning <cleaning\/@cleaning.ds\/xaaysgoZ>,
-	//cultivars <cultivars\/@cultivars.ds\/UlprcbtD>;

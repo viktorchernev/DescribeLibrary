@@ -16,4 +16,50 @@ science <rnode> ->
 	
 	psychology <2niE7rIa>,
 	sociology <.sociology.rnode>,
-	finance <08MiXjrP>;
+	finance <08MiXjrP>,
+	law <law>;
+
+	
+law <law> ->
+
+	vehicle categories in Bulgaria ->
+	
+		Motorcycles {comment},
+		AM - Mopeds with 2 or 3 wheels (up to 50 cm3\, 45 km/h\, 4 kW),
+		AM - Mopeds with 4 wheels (up to 350 kg\, 50 cm3\, 4 kW),
+		A1 - Motorcycles with 2 wheels (up to 125 cm3\, 11 kW\, 0.1 kW/kg),
+		A1 - Motorcycles with 3 wheels (up to 125 cm3\, 15 kW\, 0.1 kW/kg),
+		A2 - Motorcycles with 2 wheels (up to 35 kW\, 0.2 kW/kg),
+		A - Motorcycles with 2 wheels (above 15 kW\, 50 cm3\, 45 km/h),
+		
+		Cars {nlcomment},
+		B1 - Passenger vehicles with 4 wheels (up to 400 kg\, 15 kW),
+		B1 - Cargo vehicles with 4 wheels (up to 550 kg\, 15 kW),
+		B - Vehicles (up to 3500 kg\, 8+1 seats),
+		
+		Cargo {nlcomment},
+		C1 - (3500 to 7000 kg\, up to 8+1 seats),
+		C - (more than 3500 kg\, up to 8+1 seats),
+		
+		Passenger {nlcomment},
+		D1 - (9+1 to 16+1 seats\, up to 8 meters in length),
+		D - (9+1 or more seats),
+		
+		Small trailers {nlcomment},
+		B - can attach trailer up to 750 kg,
+		C - can attach trailer up to 750 kg,
+		C1 - can attach trailer up to 750 kg,
+		D - can attach trailer up to 750 kg,
+		D1 - can attach trailer up to 750 kg,
+		
+		Trailers {nlcomment},
+		BE - B + Trailer (up to 3500 kg with trailer\, trailer \>750 kg),
+		C1E - (C1 or B + trailer heavier than 750 kg\, overall mass under 12000 kg),
+		CE - (C + trailer heavier than 750 kg),
+		D1E - (D1 + trailer heavier than 750 kg),
+		DE - (D + trailer heavier than 750 kg),
+	
+		special {nlcomment},
+		Tkt - wheel tractor,
+		Ttm - tram,
+		Ttb - trolleybus;

@@ -4,11 +4,15 @@ cuisine <rnode> ->
 
 	taste <taste>,
 	types of diets <typesOfDiets>,
-	eating utencil skills <eatingUtencilSkills>,
-	types of food <foodTypes>,
+	types of olive oil <typesOfOliveOils>,
 
+        gap {empty},
+	eating utencil skills <eatingUtencilSkills>,
+        cooking equipment <urCBCq69>,
+	eating equipment <ZLcixxK4>,	
+
+        gap {empty},
 	food products <.foodProducts.rnode>,
+        types of food <foodTypes>,
 	drinks <drinks>,
-	dishes <XutYzYPm>,
-	cooking equipment <urCBCq69>,
-	eating equipment <ZLcixxK4>;
+	dishes <XutYzYPm>;

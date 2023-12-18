@@ -3,6 +3,30 @@ directives -> namespace <treeofall.public.culture.cuisine>;
 
 types of food <foodTypes> ->
 
+fruit preserves {comment},
+Compotes [https://en.wikipedia.org/wiki/Compote],
+Jams,
+Marmalades,
+Dried fruits,
+
+gap {empty},
+preserved vegetables {comment},
+Torshi [https://en.wikipedia.org/wiki/Torshi],
+Pastes and Sauces,
+Dried vegetables,
+
+gap {empty},
+from seeds {comment},
+Pastas [https://en.wikipedia.org/wiki/Pasta],
+Porridges [https://en.wikipedia.org/wiki/Porridge],
+Breads [https://en.wikipedia.org/wiki/Bread],
+Biscuits [https://en.wikipedia.org/wiki/Biscuit],
+
+gap {empty},
+from animal products {comment},
+Cheeses,
+
+gap {empty},
 	fruits,			//meaning to eat raw or cooked fruits
 	vegetables,		//meaning to eat raw or cooked vegetables
 
