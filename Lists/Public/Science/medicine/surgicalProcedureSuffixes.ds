@@ -4,7 +4,7 @@ directives ->
 
 surgery suffixes [https://en.wikipedia.org/wiki/List_of_surgical_procedures] <surgicalProcedureSuffixes>->
  
-	centesis \- surgical puncture of a body cavity\, joint\, organ\, or space with a hollow needle to draw out fluid.
+	centesis \- surgical puncture of a body cavity\, joint\, organ\, or space with a hollow needle to draw out fluid.,
     tripsy \- crushing or breaking up or destroying tissues, 
     desis \- fusion of two parts into one\, stabilization,
     ectomy \- surgical removal,

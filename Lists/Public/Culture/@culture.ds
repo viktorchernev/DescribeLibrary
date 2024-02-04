@@ -2,7 +2,7 @@ directives ->
 	namespace <treeofall.public.culture>;
 
 
-culture <rnode>->
+culture [https://en.wikipedia.org/wiki/Culture] <rnode>->
 
 	arts <guxvT8Mb>,
 	music <.music.rnode>,
@@ -10,7 +10,7 @@ culture <rnode>->
 	
 	gap {empty},
 	cuisine <.cuisine.rnode>,
-        drinking <.drinking.rnode>,
+    drinking <.drinking.rnode>,
 	places <zXXu7P9Y>,
 	law <5vlbLQVw>,
 	pop culture <popCulture>;

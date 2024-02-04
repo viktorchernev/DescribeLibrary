@@ -4,6 +4,9 @@ directives -> namespace <treeofall.personal.MyEntertainment>;
 My books <MyBooks> ->
 
 	fantasy <y6Qj3HDE>,
+	World of Warcraft novels <wownovels>,
+	
+	gap {empty},
 	programming <udMnuUyE>,
 	sociology <jeylSCAn>,
 	cooking <tkJTvl1W>;
@@ -67,3 +70,31 @@ sociology <jeylSCAn> ->
 	The dictator's handbook \- Bruce Bueno de Mesquita\, Alastair Smith <e6vMF4bA>,
 	How democracies die \- Steven Levitsky\, Daniel Ziblatt <JO2bMDAv>,
 	Social and cultural aspects of drinking. A report to the Amsterdam Group \- The Social Issues Research Centre <6mzT8tTJ>;
+
+
+World of Warcraft novels <wownovels>
+[https://eu.forums.blizzard.com/en/wow/t/warcraft-books-in-chronological-order/91471/2] ->
+
+    Book 1: Of Blood and Honor,
+    Book 2: Day of the dragon,
+    Book 3: Lord of the Clans,
+    Book 4: The last guardian,
+    Book 5, 6, 7: War of the ancient trilogy,
+    Book 8: Cycle of Hatred,
+    Book 9: Rise of the Horde,
+    Book 10: Tides of Darkness,
+    Book 11: Beyond the Dark Portal,
+    Book 12: Night of the Dragon,
+    Book 13: Arthas: Rise of the Lich King,
+    Book 14: Stormrage,
+    Book 15: The Shattering: Prelude to Cataclysm,
+    Book 16: Thrall: Twilight of the Aspects,
+    Book 17: Wolfheart,
+    Book 18: Jaina Proudmoore: Tides of War,
+    Book 19: Dawn of the Aspects,
+    Book 20: Vol’jin: Shadows of the Horde,
+    Book 21: War Crimes,
+    Book 22: Illidan,
+    Book 23: Traveler,
+    Book 24: Traveler: The Spiral Path,
+    Book 25: Before the Storm;

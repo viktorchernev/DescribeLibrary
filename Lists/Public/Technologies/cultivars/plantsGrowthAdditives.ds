@@ -6,30 +6,32 @@ plants growth additives <plantsGrowthAdditives> ->
 
 	chemicals ->
 
-		//pH regulation
+		pH regulation {comment},
 		pH Down Grow,
 		pH Down Bloom,
 		pH Up,
 		
-		//poisons
+		poisons {nlcomment},
 		fungicides,
 		insecticides,
 		disinfectants,
 		
-		//fertilisers
+		fertilisers {nlcomment},
 		grow,
 		bloom,
 		micro,
 		
-		//additional fertilisers
-		cal\-mag,
+		additional fertilisers {nlcomment},
+		cal-mag,
 		sugar shot,
 		enzymes+,
 		microfauna,
 		
+        gap {empty},
 		bloom booster,
 		root stimulator,
 
+        gap {empty},
 		flowering enhancer,
 		final solution;
 

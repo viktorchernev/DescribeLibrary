@@ -4,15 +4,15 @@ directives ->
 
 cultivars <rnode> ->
 
-	TODO <TODO>,
-	plants growth additives <plantsGrowthAdditives>,
 	Brassica oleracea <CabbagesBrassicaOleracea>,
 	Cucumber cultivars <CultivarsCucumbers>,
-	
 	Citrus fruits <CitrusFruits>,
 	Lemon cultivars <CultivarsLemons>,
-	
 	Avocado cultivars <CultivarsAvocado>,
 	Common olive cultivars <CultivarsOlives>,
 	Hot peppers cultivars <CultivarsHotPeppers>,
+	
+	gap {empty},
+	TODO <TODO>,
+	plants growth additives <plantsGrowthAdditives>,
 	Scovile scale (SHU) <scovileScale>;

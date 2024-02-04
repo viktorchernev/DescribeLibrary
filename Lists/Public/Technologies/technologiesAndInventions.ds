@@ -2,11 +2,12 @@ directives ->
 	namespace <treeofall.public.technologies>;
 
 
-technologies and inventions <rnode>->
+technologies [https://en.wikipedia.org/wiki/Technology] <rnode>->
 
 	locomotion <hIdTr7Pw>,
 	weapons <K3aVitDk>,
 	locks <cqK0HfXE>,
+    writing,
 	gas masks <JjxMELpU>,
 	clothing <.clothing.rnode>,
 	cleaning <.cleaning.rnode>,
@@ -34,6 +35,27 @@ locomotion <hIdTr7Pw> ->
 
 weapons <K3aVitDk> ->
 
+	blunt weapons,
+	sharp weapons,
+	ranged weapons,
+	
+	gap {empty},
+	poisons,
+	traps,
+	
+	gap {empty},
+	firearms,
+	bombs <bombs>,
+	rockets,
+	
+	gap {empty},
+	biological weapons,
+	chemical weapons,
+	nuclear weapons;
+    
+
+bombs <bombs> ->
+
 	Types of hand Grenades [https://www.youtube.com/watch?v=uxvDhmecoYQ] ->
 
 		by use role {comment},
@@ -46,3 +68,4 @@ weapons <K3aVitDk> ->
 		Flashbang (Stun) granades,
 		Thermite granades,
 		Smoke granades;
+    ;

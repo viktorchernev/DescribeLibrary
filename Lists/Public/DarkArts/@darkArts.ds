@@ -4,23 +4,35 @@ directives ->
 
 dark arts <rnode> ->
 
-	hacking <hacking>,
-	con-arts,
-	
-	fraud,
-	conspiracy,
-	    
-	addictions;
-	
-//dark arts -> murder and mutilation -> poisons
-//dark arts -> terror -> explosives
-//dark arts -> human trafficking
-//dark arts -> forcing -> racketeering
-//dark arts -> thievery
+	hacking [https://en.wikipedia.org/wiki/Security_hacker] <hacking>,
+    manipulation [https://en.wikipedia.org/wiki/Manipulation_(psychology)] <mJHvImQ0>,
+    fraud [https://en.wikipedia.org/wiki/Fraud],
+	conspiracy <Q5gC9V8K>,
 
-//https://www.fortinet.com/resources/cyberglossary/types-of-cyber-attacks
-//https://www.exploit-db.com/
-hacking <hacking> ->
+    gap {empty},
+    thievery [https://en.wikipedia.org/wiki/Theft],
+    addictions [https://en.wikipedia.org/wiki/Addiction],
+    human trafficking [https://en.wikipedia.org/wiki/Human_trafficking],
+
+    gap {empty},
+    torture [https://en.wikipedia.org/wiki/Torture],
+    terror and intimidation,																					//racketeering
+    assassination and mutilation [https://en.wikipedia.org/wiki/Assassination] <AtVxIyvR>;			//poisons, explosives
+
+
+
+
+
+conspiracy <Q5gC9V8K> ->
+
+	tamper-evident devices [https://en.wikipedia.org/wiki/Tamper-evident_technology],
+	hiding places;
+
+
+
+hacking <hacking> 
+[https://www.fortinet.com/resources/cyberglossary/types-of-cyber-attacks]
+[https://www.exploit-db.com/]->
 
 	hacking phases ->
 

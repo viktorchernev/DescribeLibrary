@@ -4,9 +4,12 @@ directives ->
 
 obstacles <rnode>->
 
+	personal {comment},
 	human diseases <treeofall.public.science.medicine.humanDiseases>,
 	common thinking errors <commonThinkingErrors>,
-	cognitive biases <uKiZuK1d>,
+    cognitive biases <uKiZuK1d>,
+	
+	collective {nlcomment},
 	demographics <0ZP3kbAj>,
 	welth gap and inequality <3pGZBWdW>,
 	environment degradation <SFrIf2j7>;
