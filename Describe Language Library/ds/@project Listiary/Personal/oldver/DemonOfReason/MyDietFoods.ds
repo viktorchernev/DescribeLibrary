@@ -1,0 +1,114 @@
+directives -> 
+	namespace <treeofall.personal>;
+
+
+my diet foods <MyDietFoods> ->
+
+	good foods <5bN660Tw> ->
+
+		//Breakfast
+		toasts with sirene <B2TeCtdJ>,
+		avocado toasts <91w0rjPh>,
+		toasts with peanut butter <doh69qsy>,
+		toasts with humus <TXSDvjjt>,
+		yogurt <j3ekuPlq>,
+		kefir <jd3LT61G>,
+		
+		// Snack
+		rice salties <WFOxAzAC>,
+		salty sticks <P6pIGNsQ>,
+		roast sunflower seeds <W6UaBea3>,
+		flavoured sunflower seeds \- barbeque\, paprika\, etc. <naHZCqGV>,
+		roasted peanuts <MqafnwUJ>,
+		roasted pastachios <o65IP3Yt>,
+		raw nut mix <QFx2bTry>,
+		crackers <mWmL1plV>,
+		kubeti <JxQjjEuz>,
+		brusketti <j9YqJUip>,
+		other bread based baked snacks <5RwdRECx>,
+
+		// Dinner
+		fried meatballs with tomato roast pepper feta olive oil salad <gbMhc1OX>;
+
+	low\-calorie breakfasts ->
+		
+		// Sandwiches (kcal in product/s | kcal in 1 slice of white bread 43g)
+		toasts with tofu (176) <UsmFItXf>,
+		toasts with curd (198) <o2AUX8On>,
+		ham toasts (126|100) <18sQfXL3>,
+		toasts with humus (166|100) <TXSDvjjt>,
+		avocado toasts (240|100) <91w0rjPh>,
+		toasts with sirene (264|100) <B2TeCtdJ>,
+		toasts with pate (319|100) <SlPOZWAG>,
+		
+		// Porridges
+		yogurt (59) <ccq0LCKd>,
+		yogurt and oatmeal (59|379) <oXu0bwQs>,
+		
+		// Fruits
+		Bananas (89) <W3S9VYEI>,
+		Apples (52\-60) <lMX3rWbX>,
+		Pears (57) <2kpAOYMh>,
+		Tangerines (53) <c3mqDhU0>,
+		Oranges (47) <aMci8BEQ>;
+
+
+
+	low\-calorie snacks ->
+
+		Salt sticks,
+		Saltys without butter;
+		
+
+
+	low\-calorie lunches ->
+
+		// Bread only
+		A slice of bread 43g (100),
+
+		// Soups
+		Tripe soup,
+		Viel Boiled soup,
+		Fish soup,
+		Chicken soup,
+
+		// Salads (esp ones where you get to add oil)
+		Shopska salad,
+		Green salad;
+
+
+	low\-calorie dinners ->
+
+		kabapcheta s garnitura,
+		kartofeno piure,
+		fried meatballs with tomato roast pepper feta olive oil salad,
+		roast potatoes,
+		filled peppers,
+		cab kaima rice,
+		boiled fish;
+
+
+	local links ->
+
+		1001recepti.com [https://www.1001recepti.com/recipe/],
+		shop.gladen.bg [https://shop.gladen.bg/product/],
+		hranite.info [https://www.hranite.info/foods];
+	
+	gap {empty},
+	my diet sandwiches ->
+	
+		//https://recepti.ezine.bg/
+		Сандвичи с пастет от авокадо със сирене [https://recepti.ezine.bg/r-204245],
+		Сандвичи с авокадо с чесън [https://recepti.ezine.bg/r-243841],
+		Сандвичи със салата и крема сирене [https://recepti.ezine.bg/r-205-%D0%97],
+		Екзотични сандвичи с плодове [https://recepti.ezine.bg/r-120256],
+		
+		//https://media.framar.bg/любопитно/да-слабеем-със-сандвичи
+		Сандвичи с фъстъчено масло и банан [https://media.framar.bg/любопитно/да-слабеем-със-сандвичи],
+		Сандвич с риба тон и салата [https://media.framar.bg/любопитно/да-слабеем-със-сандвичи],
+		Печен сандвич с пилешко [https://media.framar.bg/любопитно/да-слабеем-със-сандвичи],
+		Сандвич с гъби и сирене/кашкавал [https://media.framar.bg/любопитно/да-слабеем-със-сандвичи],
+		
+		//https://recepti.gotvach.bg/диетичнисандвичи/
+		Сандвичи с авокадо [https://recepti.gotvach.bg/r-223922],
+		Сандвичи с домат краставица и сирене [https://recepti.gotvach.bg/r-39329];
