@@ -1,7 +1,0 @@
-directives -> 
-	namespace <treeofall.documentation>;
-
-
-DOCUMENTATION <rnode> ->
-
-	schemes <.schemes.rnode>;

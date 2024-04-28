@@ -1,9 +1,0 @@
-directives ->
-	
-	delimiter-mode <mono>,
-	namespace <treeofall.public.movies>;
-
-movies <.rnode> ->
-
-	xxx,
-        yyy;

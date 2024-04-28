@@ -1,7 +1,12 @@
-directives -> namespace <music>;
+directives -> 
+	language-version <1.1>,
+	namespace <music>;
 
 movies theme songs <.movieSongs> ->
     
+	GTA 5 <.gta5game>,
+	
+	gap {empty},
     Peaky Blinders - Red Right Hand [https://youtu.be/KGD2N5hJ2e0?si=Z70v69SQLYYVZZma],
 	Men in Black - Men in Black - Will Smith [https://www.youtube.com/watch?v=fiBLgEx6svA],
 	Despicable Me 2 - Happy - Pharrell Williams [https://www.youtube.com/watch?v=MOWDb2TBYDg],
