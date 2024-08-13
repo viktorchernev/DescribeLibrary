@@ -15,14 +15,16 @@ These are backup snapshots of the lists on [Listiary.Net](https://development.li
 This folder contains backup copies of the few other repositories that are essential to the Describe Markup Language. 
 
 
-### `DescribeLibrary`
-A large collection of Describe source files.
+
+### `DescribeCompiler`
+The Transpiler for the Describe Markup Language.
+
+### `DescribeDocumentation`
+This repository contains the documentation for the language.
 
 ### `DescribeLanguage`
 Describe Markup Language related stuff - grammars, test files for those grammars, highlighting config files, media.
 
-### `DescribeCompiler`
-The Transpiler for the Describe Markup Language.
 
 
 <br><br>
