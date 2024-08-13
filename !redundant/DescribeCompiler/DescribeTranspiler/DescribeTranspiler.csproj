@@ -1,0 +1,127 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Translators\Templates\XML_PLAIN\Item.xml" />
+    <None Remove="Translators\Templates\XML_PLAIN\ItemColored.xml" />
+    <None Remove="Translators\Templates\XML_PLAIN\ItemComment.xml" />
+    <None Remove="Translators\Templates\XML_PLAIN\ItemCommentNl.xml" />
+    <None Remove="Translators\Templates\XML_PLAIN\ItemEmpty.xml" />
+    <None Remove="Translators\Templates\XML_PLAIN\Link.xml" />
+    <None Remove="Translators\Templates\HTML_PLAIN\Item.html" />
+    <None Remove="Translators\Templates\HTML_PLAIN\ItemColored.html" />
+    <None Remove="Translators\Templates\HTML_PLAIN\ItemComment.html" />
+    <None Remove="Translators\Templates\HTML_PLAIN\ItemCommentNl.html" />
+    <None Remove="Translators\Templates\HTML_PLAIN\ItemEmpty.html" />
+    <None Remove="Translators\Templates\HTML_PLAIN\Link.html" />
+    <None Remove="Translators\Templates\HTML_PLAIN\Page.html" />
+    <None Remove="Translators\Templates\HTML_PLAIN\Production.html" />
+    <None Remove="Translators\Templates\HTML_PLAIN\ProductionColored.html" />
+    <None Remove="Translators\Templates\HTML_PLAIN\Root.html" />
+    <None Remove="Translators\Templates\HTML_PARACORD\Item.html" />
+    <None Remove="Translators\Templates\HTML_PARACORD\ItemColored.html" />
+    <None Remove="Translators\Templates\HTML_PARACORD\ItemComment.html" />
+    <None Remove="Translators\Templates\HTML_PARACORD\ItemCommentNl.html" />
+    <None Remove="Translators\Templates\HTML_PARACORD\ItemEmpty.html" />
+    <None Remove="Translators\Templates\HTML_PARACORD\Link.html" />
+    <None Remove="Translators\Templates\HTML_PARACORD\Page.html" />
+    <None Remove="Translators\Templates\HTML_PARACORD\Production.html" />
+    <None Remove="Translators\Templates\HTML_PARACORD\ProductionColored.html" />
+    <None Remove="Translators\Templates\HTML_PARACORD\Root.html" />
+    <None Remove="Translators\Templates\JSON_COMMONER\Decorator.json" />
+    <None Remove="Translators\Templates\JSON_COMMONER\Item.json" />
+    <None Remove="Translators\Templates\JSON_COMMONER\ItemColored.json" />
+    <None Remove="Translators\Templates\JSON_COMMONER\ItemComment.json" />
+    <None Remove="Translators\Templates\JSON_COMMONER\ItemCommentNl.json" />
+    <None Remove="Translators\Templates\JSON_COMMONER\ItemEmpty.json" />
+    <None Remove="Translators\Templates\JSON_COMMONER\Link.json" />
+    <None Remove="Translators\Templates\JSON_COMMONER\Page.json" />
+    <None Remove="Translators\Templates\JSON_COMMONER\Production.json" />
+    <None Remove="Translators\Templates\JSON_COMMONER\ProductionColored.json" />
+    <None Remove="Translators\Templates\JSON_COMMONER\Root.json" />
+    <None Remove="Translators\Templates\JSON_LISTIARY\Decorator.json" />
+    <None Remove="Translators\Templates\JSON_LISTIARY\Item.json" />
+    <None Remove="Translators\Templates\JSON_LISTIARY\ItemColored.json" />
+    <None Remove="Translators\Templates\JSON_LISTIARY\ItemComment.json" />
+    <None Remove="Translators\Templates\JSON_LISTIARY\ItemCommentNl.json" />
+    <None Remove="Translators\Templates\JSON_LISTIARY\ItemEmpty.json" />
+    <None Remove="Translators\Templates\JSON_LISTIARY\Link.json" />
+    <None Remove="Translators\Templates\JSON_LISTIARY\Page.json" />
+    <None Remove="Translators\Templates\JSON_LISTIARY\Production.json" />
+    <None Remove="Translators\Templates\JSON_LISTIARY\ProductionColored.json" />
+    <None Remove="Translators\Templates\JSON_LISTIARY\Root.json" />
+    <None Remove="Translators\Templates\SQL_FILEFILL\FailedFileQuery.sql" />
+    <None Remove="Translators\Templates\SQL_FILEFILL\PassedFileQuery.sql" />
+    <None Remove="Translators\Templates\XML_PLAIN\Page.xml" />
+    <None Remove="Translators\Templates\XML_PLAIN\Production.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Translators\Templates\XML_PLAIN\Item.xml" />
+    <EmbeddedResource Include="Translators\Templates\XML_PLAIN\ItemColored.xml" />
+    <EmbeddedResource Include="Translators\Templates\XML_PLAIN\ItemComment.xml" />
+    <EmbeddedResource Include="Translators\Templates\XML_PLAIN\ItemCommentNl.xml" />
+    <EmbeddedResource Include="Translators\Templates\XML_PLAIN\ItemEmpty.xml" />
+    <EmbeddedResource Include="Translators\Templates\XML_PLAIN\Link.xml" />
+    <EmbeddedResource Include="Translators\Templates\XML_PLAIN\Page.xml" />
+    <EmbeddedResource Include="Translators\Templates\XML_PLAIN\Production.xml" />
+    <EmbeddedResource Include="Translators\Templates\HTML_PLAIN\Item.html" />
+    <EmbeddedResource Include="Translators\Templates\HTML_PLAIN\ItemColored.html" />
+    <EmbeddedResource Include="Translators\Templates\HTML_PLAIN\ItemComment.html" />
+    <EmbeddedResource Include="Translators\Templates\HTML_PLAIN\ItemCommentNl.html" />
+    <EmbeddedResource Include="Translators\Templates\HTML_PLAIN\ItemEmpty.html" />
+    <EmbeddedResource Include="Translators\Templates\HTML_PLAIN\Link.html" />
+    <EmbeddedResource Include="Translators\Templates\HTML_PLAIN\Page.html" />
+    <EmbeddedResource Include="Translators\Templates\HTML_PLAIN\Production.html" />
+    <EmbeddedResource Include="Translators\Templates\HTML_PLAIN\ProductionColored.html" />
+    <EmbeddedResource Include="Translators\Templates\HTML_PLAIN\Root.html" />
+    <EmbeddedResource Include="Translators\Templates\HTML_PARACORD\Item.html" />
+    <EmbeddedResource Include="Translators\Templates\HTML_PARACORD\ItemColored.html" />
+    <EmbeddedResource Include="Translators\Templates\HTML_PARACORD\ItemComment.html" />
+    <EmbeddedResource Include="Translators\Templates\HTML_PARACORD\ItemCommentNl.html" />
+    <EmbeddedResource Include="Translators\Templates\HTML_PARACORD\ItemEmpty.html" />
+    <EmbeddedResource Include="Translators\Templates\HTML_PARACORD\Link.html" />
+    <EmbeddedResource Include="Translators\Templates\HTML_PARACORD\Page.html" />
+    <EmbeddedResource Include="Translators\Templates\HTML_PARACORD\Production.html" />
+    <EmbeddedResource Include="Translators\Templates\HTML_PARACORD\ProductionColored.html" />
+    <EmbeddedResource Include="Translators\Templates\HTML_PARACORD\Root.html" />
+    <EmbeddedResource Include="Translators\Templates\JSON_COMMONER\Decorator.json" />
+    <EmbeddedResource Include="Translators\Templates\JSON_COMMONER\Item.json" />
+    <EmbeddedResource Include="Translators\Templates\JSON_COMMONER\ItemColored.json" />
+    <EmbeddedResource Include="Translators\Templates\JSON_COMMONER\ItemComment.json" />
+    <EmbeddedResource Include="Translators\Templates\JSON_COMMONER\ItemCommentNl.json" />
+    <EmbeddedResource Include="Translators\Templates\JSON_COMMONER\ItemEmpty.json" />
+    <EmbeddedResource Include="Translators\Templates\JSON_COMMONER\Link.json" />
+    <EmbeddedResource Include="Translators\Templates\JSON_COMMONER\Page.json" />
+    <EmbeddedResource Include="Translators\Templates\JSON_COMMONER\Production.json" />
+    <EmbeddedResource Include="Translators\Templates\JSON_COMMONER\ProductionColored.json" />
+    <EmbeddedResource Include="Translators\Templates\JSON_COMMONER\Root.json" />
+    <EmbeddedResource Include="Translators\Templates\JSON_LISTIARY\Decorator.json" />
+    <EmbeddedResource Include="Translators\Templates\JSON_LISTIARY\Item.json" />
+    <EmbeddedResource Include="Translators\Templates\JSON_LISTIARY\ItemColored.json" />
+    <EmbeddedResource Include="Translators\Templates\JSON_LISTIARY\ItemComment.json" />
+    <EmbeddedResource Include="Translators\Templates\JSON_LISTIARY\ItemCommentNl.json" />
+    <EmbeddedResource Include="Translators\Templates\JSON_LISTIARY\ItemEmpty.json" />
+    <EmbeddedResource Include="Translators\Templates\JSON_LISTIARY\Link.json" />
+    <EmbeddedResource Include="Translators\Templates\JSON_LISTIARY\Page.json" />
+    <EmbeddedResource Include="Translators\Templates\JSON_LISTIARY\Production.json" />
+    <EmbeddedResource Include="Translators\Templates\JSON_LISTIARY\ProductionColored.json" />
+    <EmbeddedResource Include="Translators\Templates\JSON_LISTIARY\Root.json" />
+    <EmbeddedResource Include="Translators\Templates\SQL_FILEFILL\FailedFileQuery.sql" />
+    <EmbeddedResource Include="Translators\Templates\SQL_FILEFILL\PassedFileQuery.sql" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="9.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DescribeParser\DescribeParser.csproj" />
+  </ItemGroup>
+
+</Project>
