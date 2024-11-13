@@ -1,1 +1,0 @@
-﻿INSERT INTO parsed_files(name, content) VALUES('{FILE_NAME}', '{FILE_CONTENT}');
